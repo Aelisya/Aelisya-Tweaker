@@ -1,5 +1,5 @@
 # Vivaldi Aelisya Tweaker
-Correct some default of vivaldi, and add some security.
+Correct some default of Vivaldi, and add some security.
 
 ## Report a bug ?
 Follow the template or the issue will be closed imediatly without reading !
