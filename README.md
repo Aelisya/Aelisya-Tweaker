@@ -1,7 +1,7 @@
 # Vivaldi Aelisya Tweaker
 Correct some default of Vivaldi, and add some security.
 
-## Report a bug ?
+## Report a bug or asking for a feature ?
 Follow the template or the issue will be closed imediatly without reading !
 
 ## Release Notes
