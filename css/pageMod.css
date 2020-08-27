@@ -1,0 +1,38 @@
+html
+{
+    user-select : none !important
+}
+
+::-webkit-scrollbar 
+{
+    width : 12px !important;
+    height : 12px !important
+}
+
+::-webkit-scrollbar-thumb
+{ 
+    background-color : #000 !important;
+    border-radius : 2px !important;
+    border : 0px solid #191919 !important
+}
+
+::-webkit-scrollbar-track-piece
+{
+    background-color : #191919 !important
+}
+
+:focus
+{
+    outline : none !important
+}
+
+::-moz-focus-inner
+{
+    border : 0 !important 
+}
+
+select:-moz-focusring
+{
+    color : transparent !important;
+    text-shadow :0 0 0 #000 !important
+}

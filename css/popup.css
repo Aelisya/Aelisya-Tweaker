@@ -1,0 +1,65 @@
+@font-face
+{
+    font-family : ProximaNova;
+    src : url(../fonts/ProximaNova-Sbold-webfont.woff)
+}
+
+html 
+{
+    user-select : none
+}
+
+body
+{
+    margin : 0 1em 1em 1em;
+    min-width : 222px;
+    font-family : ProximaNova;
+    background-color : #191919;
+    color : #ccc
+}
+
+a
+{
+    color : #ccc
+}
+
+h1
+{
+    line-height : 1;
+    font-size : 1.8em
+}
+
+h6
+{
+    font-weight : normal;
+    font-size : 1.0em
+}
+
+footer
+{
+    text-align : right
+}
+
+#appName
+{
+    margin-bottom : 0
+}
+
+#version
+{
+    margin-top : 3px
+}
+
+@media(prefers-color-scheme : light)
+{
+    body
+    {
+        color : #000;
+        background-color : #e6e6e6
+    }
+    
+    a
+    {
+        color : #000
+    }
+}
