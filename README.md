@@ -11,6 +11,8 @@ Released 08/28/2020 (MM/DD/AAAA) :
 <ul>
 <li>Add privacy policies of the extension</li>
 <li>Add SRI (sub-ressource integrity to css and js in html page)</li>
+<li>Popup.css minified hash : 'sha256-YbHwyASdgCbsffW1ZY6nw5BfQUDge1jE7b90GZO1+lM='</li>
+<li>Popup.js minified hash : 'sha256-CLt1oszpQ8HUx+TGV5aIxN/eFy0vHPYkd/jAbhHldeE='</li>
 </ul>
 WARNING : SINCE THE CSS AND JS IS MINIFIED IN THE CRX HASH IS DIFFERENT AS WELL
 
