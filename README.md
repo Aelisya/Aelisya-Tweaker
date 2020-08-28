@@ -11,6 +11,7 @@ Released 08/28/2020 (MM/DD/AAAA) :
 <ul>
 <li>Add privacy policies of the extension</li>
 <li>Add SRI (sub-ressource integrity to css and js in html page)</li>
+</ul>
 
 WARNING : SINCE THE CSS AND JS IS MINIFIED IN THE CRX HASH IS DIFFERENT AS WELL
 
