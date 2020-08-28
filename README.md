@@ -13,7 +13,7 @@ Released 08/28/2020 (MM/DD/AAAA) :
 <li>Add SRI (sub-ressource integrity to css and js in html page)</li>
 </ul>
 
-WARNING : SINCE THE CSS AND JS IS MINIFIED IN THE CRX HASH IS DIFFERENT AS WELL
+WARNING : SINCE THE CSS AND JS ARE MINIFIED IN THE CRX HASH IS DIFFERENT AS WELL
 
 <ul>
 <li>Popup.css minified hash : 'sha256-YbHwyASdgCbsffW1ZY6nw5BfQUDge1jE7b90GZO1+lM='</li>
