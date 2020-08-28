@@ -19,7 +19,7 @@
 
     "about" :
     {
-        "message" : "Developer's site",
+        "message" : "Privacy policy",
         "description" : "The text link of the about in the popup."
     }
 }
