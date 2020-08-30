@@ -9,7 +9,7 @@ Follow the template or the issue will be closed imediatly without reading !
 ### Version 1.1.1
 Released 08/30/2020 (MM/DD/AAAA) :
 <ul>
-<li>Removing user selection none added by accident on the stable version</li>
+<li>Removing user selection none added by mistake on the stable version</li>
 </ul>
 
 ### Version 1.1.0
