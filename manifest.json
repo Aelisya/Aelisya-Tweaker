@@ -37,6 +37,11 @@
             "js" : ["js/background.js"],
             "matches" : ["<all_urls>"],
             "run_at" : "document_end"
+        },
+        {
+            "js" : ["js/etagStop.js"],
+            "matches" : ["<all_urls>"],
+            "run_at" : "document_start"
         }
     ]
 }
