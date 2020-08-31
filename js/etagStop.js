@@ -1,1 +1,12 @@
-browser.webRequest.onHeadersReceived.addListener(e=>{if(!e.responseHeaders)return;const r=e.responseHeaders.filter(e=>"etag"!==e.name.toLowerCase());return r.length<e.responseHeaders.length?(console.debug(`Removed ETag from request #${e.requestId}\n\t${e.url}`),{responseHeaders:r}):void 0},{urls:["<all_urls>"]},["blocking","responseHeaders"]);
+browser.webRequest.onHeadersReceived.addListener(d => {
+		if (!d.responseHeaders) return;
+		const newHeaders = d.responseHeaders.filter(h => {
+			return h.name.toLowerCase() !== 'etag';
+		});
+		if (newHeaders.length < d.responseHeaders.length) {
+			console.debug(`Removed ETag from request #${d.requestId}\n	${d.url}`);
+			return {responseHeaders: newHeaders};
+		}
+	},
+	{urls: ["<all_urls>"]}, ['blocking', 'responseHeaders']
+);
