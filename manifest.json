@@ -2,12 +2,12 @@
     "manifest_version" : 2,
     
     "name" : "__MSG_appName__",
-    "version" : "1.1.2",
+    "version" : "1.1.3",
     "description" : "__MSG_appDesc__",
     "default_locale" : "en",
     
     "content_security_policy" : "default-src 'self'",
-    "homepage_url" : "https://aelisya.net",
+    "homepage_url" : "https://github.com/aelisya/Vivaldi-Aelisya-Tweaker",
     
     "icons" :
     {
