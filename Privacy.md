@@ -45,3 +45,5 @@ Our partner is/are : Github, for code hosting
 
 ## 4. Consent
 By using our website, our github repo or extension, you hereby consent to our Privacy Policy and agree to its terms.
+You can revoque this consent by stop visiting these website or remove our extension, since only country data are stocked (anonymously) we have noting to remove on you since we haven't any data linked to you.
+(Don't forget to erase cookie and website data to be sure our partner don't continue to track you if you decide to remove your consent like the GDPR autorize you to do).
