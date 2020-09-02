@@ -6,6 +6,12 @@ Follow the template or the issue will be closed imediatly without reading !
 
 ## Release Notes
 
+### Version 1.1.3
+Released 09/02/2020 (MM/DD/AAAA) :
+<ul>
+<li>Change Privacy Link</li>
+</ul>
+
 ### Version 1.1.2
 Released 08/31/2020 (MM/DD/AAAA) :
 <ul>
