@@ -9,6 +9,18 @@
     "content_security_policy" : "default-src 'self'",
     "homepage_url" : "https://github.com/aelisya/Vivaldi-Aelisya-Tweaker",
     
+    "permissions": [
+        "*://t.co/*",
+        "https://bing-amp.com/c/*",
+        "https://*.bing-amp.com/c/*",
+        "https://cdn.ampproject.org/c/*",
+        "https://*.cdn.ampproject.org/c/*",
+        "https://www.bing.com/amp/*",
+        "https://www.google.com/amp/*",
+        "webRequest",
+        "webRequestBlocking"
+    ],
+    
     "icons" :
     {
         "48" : "icons/icon48.png",
