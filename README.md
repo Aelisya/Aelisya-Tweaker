@@ -6,6 +6,12 @@ Follow the template or the issue will be closed imediatly without reading !
 
 ## Release Notes
 
+### Version 1.2.0
+Released 09/04/2020 (MM/DD/AAAA) :
+<ul>
+<li>Add AMP redirection support</li>
+</ul>
+
 ### Version 1.1.3
 Released 09/02/2020 (MM/DD/AAAA) :
 <ul>
