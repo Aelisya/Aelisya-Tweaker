@@ -10,6 +10,7 @@ Follow the template or the issue will be closed imediatly without reading !
 Released 09/04/2020 (MM/DD/AAAA) :
 <ul>
 <li>Add swisscows cleaning after using my <a href="https://github.com/aelisya/adblock">adblock list</a></li>
+<li>Remove etag stop too many error for now</li>
 </ul>
 
 ### Version 1.2.0
