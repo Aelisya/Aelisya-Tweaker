@@ -61,11 +61,6 @@
             "run_at" : "document_end"
         },
         {
-            "js" : ["js/etagStop.js"],
-            "matches" : ["<all_urls>"],
-            "run_at" : "document_start"
-        },
-        {
             "js": ["js/amp2html.js"],
             "matches": ["http://*/*","https://*/*"],
             "run_at": "document_end"
