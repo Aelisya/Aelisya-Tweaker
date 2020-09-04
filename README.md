@@ -6,6 +6,12 @@ Follow the template or the issue will be closed imediatly without reading !
 
 ## Release Notes
 
+### Version 1.2.1
+Released 09/04/2020 (MM/DD/AAAA) :
+<ul>
+<li>Add swisscows cleaning after using my <a href="https://github.com/aelisya/adblock">adblock list</a></li>
+</ul>
+
 ### Version 1.2.0
 Released 09/04/2020 (MM/DD/AAAA) :
 <ul>
