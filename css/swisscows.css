@@ -1,0 +1,133 @@
+html {
+  color: #0D0D0D;
+}
+
+.header {
+  background: #1E1E1E;
+  border-bottom: 1px solid #2C2C2C;
+}
+
+.filters {
+  background: #1E1E1E;
+  border-top: 1px solid #737373;
+}
+
+.tell-friends {
+  display: none;
+}
+
+.filters[hidden], .filters[hidden].filters-image {
+  border-top: 0 solid #202020;
+}
+
+.web-results .item--web .description::after {
+  background: linear-gradient(to right,rgba(255,255,255,0) 0,#0D0D0D 50%);
+}
+
+.ui.cloud .tile .inner {
+  background: rgba(170,138,255,0);
+}
+
+.donation-web-results-wrap {
+  display: none;
+}
+
+.web .tell-friends {
+  display: none;
+}
+
+.footer-top {
+  display: none;
+}
+
+.footer-bottom {
+  background: #000;
+}
+
+.menu-wrap .menu-content {
+  background: #292929;
+}
+
+.header.collapsed::after {
+  background: linear-gradient(to top,rgba(255,255,255,0) 0,#0D0D0D 100%);
+}
+
+body, html {
+  background: #0D0D0D;
+}
+
+.input-search, input[type="email"], input[type="search"], input[type="tel"], input[type="text"], select {
+  background: #1C1C1C;
+  color: #F7F7F6;
+  font-size: 1.188em;
+  font-weight: 400;
+}
+
+.page-results {
+  background: #0C0C0C;
+}
+
+.section--web {
+  background: #0A0A0A;
+}
+
+:root {
+  --simple-translate-highlight: #3272dc;
+  --simple-translate-main-bg: #111111;
+}
+
+.toolbar {
+  background: #0B0B0B;
+}
+
+.web-results .item--web.sales .sales-logo {
+  display: none;
+}
+
+.button-install {
+  color: #000;
+}
+
+.button-toggle .knobs::before {
+  background: #060606;
+}
+
+.st-slide-wrap.st-slide-1, .st-slide-wrap.st-slide-3 {
+  background: #111;
+}
+
+.header--home {
+  background: #111;
+}
+
+.st-slide-wrap.st-slide-2 {
+ background:#222;
+}
+
+.header { 
+  margin-top: -40px;
+}
+
+.top-banner {
+    display:none;
+}
+
+.login.button {
+    display:none;
+}
+
+.toggle--menu {
+    display:none;
+}
+
+.banners-wrap {
+    display:none;
+}
+
+.datacloud--home {
+    display:none;
+}
+
+.st-slides {
+    display:none;
+}
