@@ -6,6 +6,13 @@ Follow the template or the issue will be closed imediatly without reading !
 
 ## Release Notes
 
+### Version 1.2.2
+Released 09/07/2020 (MM/DD/AAAA) :
+<ul>
+<li>Change Color to math Gnome one</li>
+<li>New popup.css minified hash : 'sha256-8KwTjzGvlNnCToaGKewnoeqhsbAINwq9ftxELqvbC/4='</li>
+</ul>
+
 ### Version 1.2.1
 Released 09/04/2020 (MM/DD/AAAA) :
 <ul>
