@@ -8,7 +8,7 @@
 { 
     background-color : #555555 !important;
     border-radius : 2px !important;
-    border : 1px solid #000 !important
+    border-left : 1px solid #000 !important
 }
 
 ::-webkit-scrollbar-track-piece
