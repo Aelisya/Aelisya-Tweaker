@@ -6,6 +6,12 @@ Follow the template or the issue will be closed imediatly without reading !
 
 ## Release Notes
 
+### Version 1.2.3
+Released 09/07/2020 (MM/DD/AAAA) :
+<ul>
+<li>micro css patch to remove double margin in scrollbar (top and bottom)</li>
+</ul>
+
 ### Version 1.2.2
 Released 09/07/2020 (MM/DD/AAAA) :
 <ul>
