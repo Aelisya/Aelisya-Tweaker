@@ -51,11 +51,6 @@
             "run_at" : "document_end"
         },
         {
-            "css" : ["css/swisscows.min.css"],
-            "matches" : ["*://swisscows.com","*://swisscows.ch"],
-            "run_at" : "document_end"
-        },
-        {
             "js" : ["js/background.js"],
             "matches" : ["<all_urls>"],
             "run_at" : "document_end"
