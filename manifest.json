@@ -2,7 +2,7 @@
     "manifest_version" : 2,
     
     "name" : "__MSG_appName__",
-    "version" : "1.2.4",
+    "version" : "1.2.5",
     "description" : "__MSG_appDesc__",
     "default_locale" : "en",
     
@@ -17,6 +17,7 @@
         "https://*.cdn.ampproject.org/c/*",
         "https://www.bing.com/amp/*",
         "https://www.google.com/amp/*",
+        "https://swisscows.com/*,
         "webRequest",
         "webRequestBlocking"
     ],
@@ -48,6 +49,11 @@
         {
             "css" : ["css/pageMod.css"],
             "matches" : ["<all_urls>"],
+            "run_at" : "document_end"
+        },
+        {
+            "css" : ["css/swisscows.min.css"],
+            "matches" : ["*://swisscows.com"],
             "run_at" : "document_end"
         },
         {
