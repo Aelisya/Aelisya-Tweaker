@@ -17,7 +17,6 @@
         "https://*.cdn.ampproject.org/c/*",
         "https://www.bing.com/amp/*",
         "https://www.google.com/amp/*",
-        "https://swisscows.com/*",
         "webRequest",
         "webRequestBlocking"
     ],
@@ -53,7 +52,7 @@
         },
         {
             "css" : ["css/swisscows.min.css"],
-            "matches" : ["*://swisscows.com"],
+            "matches" : ["https://swisscows.com/"],
             "run_at" : "document_end"
         },
         {
