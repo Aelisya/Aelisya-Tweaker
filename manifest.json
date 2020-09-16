@@ -2,7 +2,7 @@
     "manifest_version" : 2,
     
     "name" : "__MSG_appName__",
-    "version" : "1.2.5",
+    "version" : "1.2.6",
     "description" : "__MSG_appDesc__",
     "default_locale" : "en",
     
@@ -52,7 +52,7 @@
         },
         {
             "css" : ["css/swisscows.min.css"],
-            "matches" : ["https://swisscows.com/"],
+            "matches" : ["https://swisscows.com/*"],
             "run_at" : "document_end"
         },
         {
