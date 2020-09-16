@@ -6,8 +6,13 @@ Follow the template or the issue will be closed imediatly without reading !
 
 ## Release Notes
 
-### Version 1.2.5
+### Version 1.2.6
+Released 09/16/2020 (MM/DD/AAAA) :
+<ul>
+<li>Bug Correction</li>
+</ul>
 
+### Version 1.2.5
 Released 09/16/2020 (MM/DD/AAAA) :
 <ul>
 <li>Swisscow reimplemented</li>
