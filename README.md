@@ -6,6 +6,20 @@ Follow the template or the issue will be closed imediatly without reading !
 
 ## Release Notes
 
+### Version 1.2.5
+
+Released 09/16/2020 (MM/DD/AAAA) :
+<ul>
+<li>Swisscow reimplemented</li>
+<li>Add 1.2.4 to release (forgotten)</li>
+</ul>
+
+### Version 1.2.4
+Released 09/08/2020 (MM/DD/AAAA) :
+<ul>
+<li>Remove swisscow temporary</li>
+</ul>
+
 ### Version 1.2.3
 Released 09/07/2020 (MM/DD/AAAA) :
 <ul>
