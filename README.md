@@ -7,7 +7,7 @@ Follow the template or the issue will be closed imediatly without reading !
 ## Release Notes
 
 ### Version 1.2.7
-Released 09/16/2020 (MM/DD/AAAA) :
+Released 09/21/2020 (MM/DD/AAAA) :
 <ul>
 <li>Optimisation</li>
 <li>Color Change</li>
