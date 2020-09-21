@@ -2,7 +2,7 @@
     "manifest_version" : 2,
     
     "name" : "__MSG_appName__",
-    "version" : "1.2.6",
+    "version" : "1.2.7",
     "description" : "__MSG_appDesc__",
     "default_locale" : "en",
     
@@ -56,14 +56,14 @@
             "run_at" : "document_end"
         },
         {
-            "js" : ["js/background.js"],
-            "matches" : ["<all_urls>"],
+            "css" : ["css/mangan.css"],
+            "matches" : ["https://manganelo.com/*"],
             "run_at" : "document_end"
         },
         {
-            "js": ["js/amp2html.js"],
-            "matches": ["http://*/*","https://*/*"],
-            "run_at": "document_end"
+            "js" : ["js/background.js","js/amp2html.js"],
+            "matches" : ["<all_urls>"],
+            "run_at" : "document_end"
         }
     ]
 }
