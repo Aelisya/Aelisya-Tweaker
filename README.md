@@ -6,6 +6,15 @@ Follow the template or the issue will be closed imediatly without reading !
 
 ## Release Notes
 
+### Version 1.2.7
+Released 09/16/2020 (MM/DD/AAAA) :
+<ul>
+<li>Optimisation</li>
+<li>Color Change</li>
+<li>Remove line on a website i use in css</li>
+<li>Change integrity code for popup.html to reflect change in css</li>
+</ul>
+
 ### Version 1.2.6
 Released 09/16/2020 (MM/DD/AAAA) :
 <ul>
