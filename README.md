@@ -6,6 +6,15 @@ Follow the template or the issue will be closed imediatly without reading !
 
 ## Release Notes
 
+### Version 1.2.8
+Released 10/14/2020 (MM/DD/AAAA) :
+<ul>
+<li>Préparation for publish on edge-store</li>
+<li>Remove integrity check on html</li>
+<li>Change color for edge</li>
+<li>Remove website based filter</li>
+</ul>
+
 ### Version 1.2.7
 Released 09/21/2020 (MM/DD/AAAA) :
 <ul>
