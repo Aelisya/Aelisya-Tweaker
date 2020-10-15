@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "regexSubstitution": "\\1"
+            }
+        },
+        "condition": {
+            "regexFilter": "^(?:https|http):\/\/www.(?:google|bing).com\/amp\/(.*)",
+            "resourceTypes": [
+                "main_frame"
+            ]
+        }
+    }
+]

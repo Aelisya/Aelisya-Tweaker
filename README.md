@@ -10,12 +10,11 @@ Follow the template or the issue will be closed imediatly without reading !
 
 ## Release Notes
 
-### Version 2 (draft)
+### Version 1.3 (Draft)
 Released xx/xx/2020 (MM/DD/AAAA) :
 <ul>
-<li>Bump extension to Manifest V3</li>
-<li>Rewriting AMP redirection from scratch with declarativeNetRequest instead of webrequest (Manifest V3)</li>
-<li>Rewriting CSP for more security (Manifest V3 requirement)</li>
+<li>Rewriting AMP redirection from scratch with declarativeNetRequest instead of webrequest (Preparation for Manifest V3)</li>
+<li>Rewriting CSP for more security (Preparation for Manifest V3)</li>
 </ul>
 
 ### Version 1.2.8

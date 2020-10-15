@@ -1,59 +1,59 @@
 {
-    "manifest_version" : 2,
+    "manifest_version": 2,
     
-    "name" : "__MSG_appName__",
-    "version" : "1.2.8",
-    "description" : "__MSG_appDesc__",
-    "default_locale" : "en",
+    "name": "__MSG_appName__",
+    "version": "2.0",
+    "description": "__MSG_appDesc__",
+    "default_locale": "en",
+    
     
     "content_security_policy" : "default-src 'self'",
-    "homepage_url" : "https://github.com/aelisya/Vivaldi-Aelisya-Tweaker",
+
+    "homepage_url": "https://github.com/aelisya/Vivaldi-Aelisya-Tweaker",
     
     "permissions": [
-        "*://t.co/*",
+        "https://t.co/*",
         "https://bing-amp.com/c/*",
         "https://*.bing-amp.com/c/*",
         "https://cdn.ampproject.org/c/*",
         "https://*.cdn.ampproject.org/c/*",
         "https://www.bing.com/amp/*",
         "https://www.google.com/amp/*",
-        "webRequest",
-        "webRequestBlocking"
+        "declarativeNetRequest"
     ],
-    
-    "icons" :
-    {
-        "48" : "icons/icon48.png",
-        "128" : "icons/icon128.png",
-        "256" : "icons/icon256.png"
+
+    "declarative_net_request": {
+        "rule_resources": [{
+          "id": "ruleset_1",
+          "enabled": true,
+          "path": "rules.json"
+        }]
     },
     
-    "background" : 
-    {
-        "scripts" : ["js/redirector.js"]
+    "icons": {
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png",
+        "256": "icons/icon256.png"
     },
 
-    "browser_action" : 
-    {
-        "default_icon" : 
-        {
-            "48" : "icons/icon48.png"
+    "browser_action": {
+        "default_icon": {
+            "48": "icons/icon48.png"
         },
 
-        "default_popup" : "pages/popup.html"
+        "default_popup": "pages/popup.html"
     },
     
-    "content_scripts" : 
-    [
+    "content_scripts": [
         {
-            "css" : ["css/pageMod.css"],
-            "matches" : ["<all_urls>"],
-            "run_at" : "document_end"
+            "css": ["css/pageMod.css"],
+            "matches": ["<all_urls>"],
+            "run_at": "document_end"
         },
         {
-            "js" : ["js/background.js","js/amp2html.js"],
-            "matches" : ["<all_urls>"],
-            "run_at" : "document_end"
+            "js": ["js/background.js","js/amp2html.js"],
+            "matches": ["<all_urls>"],
+            "run_at": "document_end"
         }
     ]
 }

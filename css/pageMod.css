@@ -15,19 +15,3 @@
 {
     background-color : #2E2E2E !important
 }
-
-:focus
-{
-    outline : none !important
-}
-
-::-moz-focus-inner
-{
-    border : 0 !important 
-}
-
-select:-moz-focusring
-{
-    color : transparent !important;
-    text-shadow :0 0 0 #000 !important
-}

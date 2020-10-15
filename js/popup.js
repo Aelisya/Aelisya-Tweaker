@@ -1,4 +1,4 @@
-document.getElementById('appName').innerHTML = chrome.i18n.getMessage('appName');
+document.getElementById('appName').textContent = chrome.i18n.getMessage('appName');
 let version = document.getElementById('version');
 version.textContent += chrome.i18n.getMessage('version');
 version.textContent += " " + chrome.runtime.getManifest().version;
