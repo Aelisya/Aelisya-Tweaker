@@ -8,6 +8,9 @@ Add security and privacy with this extension.
 ## Report a bug or asking for a feature ?
 Follow the template or the issue will be closed imediatly without reading !
 
+## CRX release
+From today i will not update the CRX anymore, and this package is in review process for publication on some store the link to them will be added soon.
+
 ## Release Notes
 
 ### Version 1.3 (Draft)
