@@ -1,5 +1,9 @@
-# Vivaldi Aelisya Tweaker
-Correct some default of Vivaldi, and add some security.
+# Aelisya Tweaker
+Add security and privacy with this extension.
+
+- AMP redirection
+- Noopener Noreferer to _blank link
+- Add modern Scrollbar to the browser (instead of the white from windows).
 
 ## Report a bug or asking for a feature ?
 Follow the template or the issue will be closed imediatly without reading !
