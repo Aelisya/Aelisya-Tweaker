@@ -12,13 +12,13 @@
     "homepage_url": "https://github.com/aelisya/Vivaldi-Aelisya-Tweaker",
     
     "permissions": [
-        "https://t.co/*",
-        "https://bing-amp.com/c/*",
-        "https://*.bing-amp.com/c/*",
-        "https://cdn.ampproject.org/c/*",
-        "https://*.cdn.ampproject.org/c/*",
-        "https://www.bing.com/amp/*",
-        "https://www.google.com/amp/*",
+        "*://t.co/*",
+        "*://bing-amp.com/c/*",
+        "*://*.bing-amp.com/c/*",
+        "*://cdn.ampproject.org/c/*",
+        "*://*.cdn.ampproject.org/c/*",
+        "*://www.bing.com/amp/*",
+        "*://www.google.com/amp/*",
         "declarativeNetRequest"
     ],
 
