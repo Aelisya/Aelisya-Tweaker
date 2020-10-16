@@ -17,9 +17,15 @@
         "description" : "Change this only if in the languages you translate version is writter with another spelling."
     },
 
-    "about" :
+    "privacy" :
     {
         "message" : "Vie privée",
-        "description" : "The text link of the about in the popup."
+        "description" : "The text link of the privacy in the popup."
+    },
+
+    "licence" :
+    {
+        "message" : "Licence",
+        "description" : "The text link of the licence in the popup."
     }
 }

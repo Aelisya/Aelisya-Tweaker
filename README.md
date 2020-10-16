@@ -20,6 +20,7 @@ Released xx/xx/2020 (MM/DD/AAAA) :
 <li>Rewriting CSP for more security (Preparation for Manifest V3)</li>
 <li>Removing redirector background script (for AMP redirect) replaced by declarativeNetRequest</li>
 <li>Protect the page in case of error of the extension</li>
+<li>Reintegration of previously removed integritycheck for the popup</li>
 </ul>
 
 ### Version 1.2.8
