@@ -2,8 +2,13 @@
     {
         "id": 1,
         "priority": 1,
-        "action": { "type": "block" },
-        "condition": {"regexFilter": "^(?:https|http):\/\/www.(?:bing|google).com\/amp\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))", "resourceTypes": ["main_frame"] }
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^(?:https|http):\/\/www.(?:bing|google).com\/amp\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))",
+            "resourceTypes": ["main_frame"]
+        }
     },
     {
         "id": 2,
@@ -16,16 +21,19 @@
         },
         "condition": {
             "regexFilter": "^(?:https|http):\/\/www.(?:bing|google).com\/amp\/s\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))",
-            "resourceTypes": [
-                "main_frame"
-            ]
+            "resourceTypes": ["main_frame"]
         }
     },
     {
         "id": 3,
         "priority": 1,
-        "action": { "type": "block" },
-        "condition": {"regexFilter": "^(?:https|http):\/\/(?:.*cdn.ampproject.org|.*bing-amp.com)\/c\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))", "resourceTypes": ["main_frame"] }
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^(?:https|http):\/\/(?:.*cdn.ampproject.org|.*bing-amp.com)\/c\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))", 
+            "resourceTypes": ["main_frame"]
+        }
     },
     {
         "id": 4,
@@ -38,9 +46,7 @@
         },
         "condition": {
             "regexFilter": "^(?:https|http):\/\/(?:.*cdn.ampproject.org|.*bing-amp.com)\/c\/s\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))",
-            "resourceTypes": [
-                "main_frame"
-            ]
+            "resourceTypes": ["main_frame"]
         }
     },
     {
@@ -54,9 +60,7 @@
         },
         "condition": {
             "regexFilter": "^(?:https|http):\/\/t.co\/(.*).+amp=1",
-            "resourceTypes": [
-                "main_frame"
-            ]
+            "resourceTypes": ["main_frame"]
         }
     }
 ]

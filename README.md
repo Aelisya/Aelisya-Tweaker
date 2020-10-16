@@ -21,6 +21,7 @@ Released xx/xx/2020 (MM/DD/AAAA) :
 <li>Removing redirector background script (for AMP redirect) replaced by declarativeNetRequest</li>
 <li>Protect the page in case of error of the extension</li>
 <li>Reintegration of previously removed integrity-check for the popup</li>
+<li>Adding support for color change who follow browser/os preference to scrollbar</li>
 <li>Licence Modified from all right reserved to CC BY-NC-ND 4.0 (Only apply on V2 when it will be finished prior this all right reserved is applicable)</li>
 </ul>
 

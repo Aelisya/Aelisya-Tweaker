@@ -4,20 +4,23 @@
     "name": "__MSG_appName__",
     "version": "2.0",
     "description": "__MSG_appDesc__",
+    "icons": {
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png",
+        "256": "icons/icon256.png"
+    },
+    "homepage_url": "https://github.com/aelisya/Vivaldi-Aelisya-Tweaker",
     "default_locale": "en",
     
     "content_security_policy" : "default-src 'self'",
-
-    "homepage_url": "https://github.com/aelisya/Vivaldi-Aelisya-Tweaker",
-    
     "permissions": [
-        "*://t.co/*",
-        "*://bing-amp.com/c/*",
-        "*://*.bing-amp.com/c/*",
-        "*://cdn.ampproject.org/c/*",
-        "*://*.cdn.ampproject.org/c/*",
-        "*://www.bing.com/amp/*",
-        "*://www.google.com/amp/*",
+        "https://t.co/*",
+        "https://bing-amp.com/c/*",
+        "https://*.bing-amp.com/c/*",
+        "https://cdn.ampproject.org/c/*",
+        "https://*.cdn.ampproject.org/c/*",
+        "https://www.bing.com/amp/*",
+        "https://www.google.com/amp/*",
         "declarativeNetRequest"
     ],
 
@@ -29,12 +32,6 @@
         }]
     },
     
-    "icons": {
-        "48": "icons/icon48.png",
-        "128": "icons/icon128.png",
-        "256": "icons/icon256.png"
-    },
-
     "browser_action": {
         "default_icon": {
             "48": "icons/icon48.png"
@@ -46,8 +43,9 @@
         {
             "css": ["css/pageMod.css"],
             "js": ["js/background.js"],
-            "matches": ["<all_urls>"],
-            "run_at": "document_end"
+            "matches": ["https://*/*","http://*/*"],
+            "all_frame": true,
+            "run_at": "document_idle"
         }
     ]
 }
