@@ -2,11 +2,11 @@
 Add security and privacy with this extension.
 
 - AMP redirection
-- Noopener Noreferer to _blank link
+- Noopener Noreferrer to _blank link
 - Add modern Scrollbar to the browser (instead of the white from windows).
 
 ## Report a bug or asking for a feature ?
-Follow the template or the issue will be closed imediatly without reading !
+Follow the template or the issue will be closed immediately without reading !
 
 ## CRX release
 From today i will not update the CRX anymore, and this package is in review process for publication on some store the link to them will be added soon.
@@ -20,7 +20,7 @@ Released xx/xx/2020 (MM/DD/AAAA) :
 <li>Rewriting CSP for more security (Preparation for Manifest V3)</li>
 <li>Removing redirector background script (for AMP redirect) replaced by declarativeNetRequest</li>
 <li>Protect the page in case of error of the extension</li>
-<li>Reintegration of previously removed integritycheck for the popup</li>
+<li>Reintegration of previously removed integrity-check for the popup</li>
 <li>Licence Modified from all right reserved to CC BY-NC-ND 4.0 (Only apply on V2 when it will be finished prior this all right reserved is applicable)</li>
 </ul>
 
@@ -36,7 +36,7 @@ Released 10/14/2020 (MM/DD/AAAA) :
 ### Version 1.2.7
 Released 09/21/2020 (MM/DD/AAAA) :
 <ul>
-<li>Optimisation</li>
+<li>Optimizations</li>
 <li>Color Change</li>
 <li>Remove line on a website i use in css</li>
 <li>Change integrity code for popup.html to reflect change in css</li>
@@ -51,14 +51,14 @@ Released 09/16/2020 (MM/DD/AAAA) :
 ### Version 1.2.5
 Released 09/16/2020 (MM/DD/AAAA) :
 <ul>
-<li>Swisscow reimplemented</li>
+<li>Swisscows implemented</li>
 <li>Add 1.2.4 to release (forgotten)</li>
 </ul>
 
 ### Version 1.2.4
 Released 09/08/2020 (MM/DD/AAAA) :
 <ul>
-<li>Remove swisscow temporary</li>
+<li>Remove Swisscows temporary</li>
 </ul>
 
 ### Version 1.2.3
@@ -77,8 +77,8 @@ Released 09/07/2020 (MM/DD/AAAA) :
 ### Version 1.2.1
 Released 09/04/2020 (MM/DD/AAAA) :
 <ul>
-<li>Add swisscows cleaning after using my <a href="https://github.com/aelisya/adblock">adblock list</a></li>
-<li>Remove etag stop too many error for now</li>
+<li>Add Swisscows cleaning after using my <a href="https://github.com/aelisya/adblock">adblock list</a></li>
+<li>Remove E-tag stop too many error for now</li>
 </ul>
 
 ### Version 1.2.0
@@ -109,7 +109,7 @@ Released 08/30/2020 (MM/DD/AAAA) :
 Released 08/28/2020 (MM/DD/AAAA) :
 <ul>
 <li>Add privacy policies of the extension</li>
-<li>Add SRI (sub-ressource integrity to css and js in html page)</li>
+<li>Add SRI (sub-resources integrity to css and js in html page)</li>
 </ul>
 
 WARNING : SINCE THE CSS AND JS ARE MINIFIED IN THE CRX HASH IS DIFFERENT AS WELL
