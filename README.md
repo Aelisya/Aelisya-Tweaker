@@ -15,7 +15,7 @@ The new code written exclusively by me this time is in CC BY-NC-ND 4.0.
 
 ## Release Notes
 
-### Version 2.0 (Draft (what is done already may change before release))
+### Version 2.0 (Finalized submitted for review)
 Released xx/xx/2020 (MM/DD/AAAA) :
 <ul>
 <li>Rewriting AMP redirection from scratch with declarativeNetRequest instead of webrequest (Preparation for Manifest V3)</li>
