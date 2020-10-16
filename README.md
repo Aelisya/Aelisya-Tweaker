@@ -13,7 +13,7 @@ From today i will not update the CRX anymore, and this package is in review proc
 
 ## Release Notes
 
-### Version 2.0 (Draft)
+### Version 2.0 (Draft (what is done already may change before release))
 Released xx/xx/2020 (MM/DD/AAAA) :
 <ul>
 <li>Rewriting AMP redirection from scratch with declarativeNetRequest instead of webrequest (Preparation for Manifest V3)</li>
