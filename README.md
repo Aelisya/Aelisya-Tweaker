@@ -18,7 +18,7 @@ Released xx/xx/2020 (MM/DD/AAAA) :
 <ul>
 <li>Rewriting AMP redirection from scratch with declarativeNetRequest instead of webrequest (Preparation for Manifest V3)</li>
 <li>Rewriting CSP for more security (Preparation for Manifest V3)</li>
-<li>Removing redirecot background script (for AMP redirect) replaced by declarativeNetRequest</li>
+<li>Removing redirector background script (for AMP redirect) replaced by declarativeNetRequest</li>
 <li>Protect the page in case of error of the extension</li>
 </ul>
 
