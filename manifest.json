@@ -6,7 +6,6 @@
     "description": "__MSG_appDesc__",
     "default_locale": "en",
     
-    
     "content_security_policy" : "default-src 'self'",
 
     "homepage_url": "https://github.com/aelisya/Vivaldi-Aelisya-Tweaker",
@@ -40,18 +39,13 @@
         "default_icon": {
             "48": "icons/icon48.png"
         },
-
         "default_popup": "pages/popup.html"
     },
     
     "content_scripts": [
         {
             "css": ["css/pageMod.css"],
-            "matches": ["<all_urls>"],
-            "run_at": "document_end"
-        },
-        {
-            "js": ["js/background.js","js/amp2html.js"],
+            "js": ["js/background.js"],
             "matches": ["<all_urls>"],
             "run_at": "document_end"
         }

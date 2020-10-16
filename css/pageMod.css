@@ -3,14 +3,12 @@
     width : 12px !important;
     height : 12px !important
 }
-
 ::-webkit-scrollbar-thumb
 { 
     background-color : #3B3B3B !important;
     border-radius : 2px !important;
     border-left : 1px solid #000 !important
 }
-
 ::-webkit-scrollbar-track-piece
 {
     background-color : #2E2E2E !important
