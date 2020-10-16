@@ -24,8 +24,9 @@ Released xx/xx/2020 (MM/DD/AAAA) :
 <li>Protect the page in case of error of the extension</li>
 <li>Reintegration of previously removed integrity-check for the popup</li>
 <li>Adding support for color change who follow browser/os preference to scrollbar</li>
-<li>First optimizations for some js and manifest to try to improve speed and security</li>
+<li>Various optimizations for some js and manifest to try to improve speed and security</li>
 <li>Release on GitHub removed, official store release on their way : validation process right now</li>
+<li>Temporary drop the support of Firefox since they don't implement declarativeNetRequest</li>
 <li>Licence Modified from all right reserved to CC BY-NC-ND 4.0 (Only apply on V2 when it will be finished prior this all right reserved is applicable)</li>
 </ul>
 
