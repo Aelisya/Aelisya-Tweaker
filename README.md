@@ -1,15 +1,17 @@
 # Aelisya Tweaker
 Add security and privacy with this extension.
 
-- AMP redirection
-- Noopener Noreferrer to _blank link
+- AMP redirection.
+- Noopener Noreferrer Nofollow to _blank link.
 - Add modern Scrollbar to the browser (instead of the white from windows).
 
 ## Report a bug or asking for a feature ?
 Follow the template or the issue will be closed immediately without reading !
 
-## CRX release
-From today i will not update the CRX anymore, and this package is in review process for publication on some store the link to them will be added soon.
+## What's happened to Release ?
+Like i have said in the licence the only one who helped me have stollen some code and since i wasn't aware and after some discussion with the owner of the code i do my best to reduce the possibility of anyone to access to this stolen code, so all release are stopped (on github, release on official store are on their way), and i don't work with anyone who don't work with github.
+They was understanding because this code was deprecated but its was their property, so they have authorized me to use it but i rewrite the extension so i remove this stollen code and i obfuscate it a maximum.
+The new code written exclusively by me this time is in CC BY-NC-ND 4.0.
 
 ## Release Notes
 
@@ -22,13 +24,15 @@ Released xx/xx/2020 (MM/DD/AAAA) :
 <li>Protect the page in case of error of the extension</li>
 <li>Reintegration of previously removed integrity-check for the popup</li>
 <li>Adding support for color change who follow browser/os preference to scrollbar</li>
+<li>First optimizations for some js and manifest to try to improve speed and security</li>
+<li>Release on GitHub removed, official store release on their way : validation process right now</li>
 <li>Licence Modified from all right reserved to CC BY-NC-ND 4.0 (Only apply on V2 when it will be finished prior this all right reserved is applicable)</li>
 </ul>
 
 ### Version 1.2.8
 Released 10/14/2020 (MM/DD/AAAA) :
 <ul>
-<li>Préparation for publish on edge-store</li>
+<li>Preparation for publish on edge-store</li>
 <li>Remove integrity check on html</li>
 <li>Change color for edge</li>
 <li>Remove website based filter</li>
@@ -65,14 +69,13 @@ Released 09/08/2020 (MM/DD/AAAA) :
 ### Version 1.2.3
 Released 09/07/2020 (MM/DD/AAAA) :
 <ul>
-<li>micro css patch to remove double margin in scrollbar (top and bottom)</li>
+<li>Micro css patch to remove double margin in scrollbar (top and bottom)</li>
 </ul>
 
 ### Version 1.2.2
 Released 09/07/2020 (MM/DD/AAAA) :
 <ul>
 <li>Change Color to math Gnome one</li>
-<li>New popup.css minified hash : 'sha256-8KwTjzGvlNnCToaGKewnoeqhsbAINwq9ftxELqvbC/4='</li>
 </ul>
 
 ### Version 1.2.1
@@ -111,13 +114,6 @@ Released 08/28/2020 (MM/DD/AAAA) :
 <ul>
 <li>Add privacy policies of the extension</li>
 <li>Add SRI (sub-resources integrity to css and js in html page)</li>
-</ul>
-
-WARNING : SINCE THE CSS AND JS ARE MINIFIED IN THE CRX HASH IS DIFFERENT AS WELL
-
-<ul>
-<li>Popup.css minified hash : 'sha256-YbHwyASdgCbsffW1ZY6nw5BfQUDge1jE7b90GZO1+lM='</li>
-<li>Popup.js minified hash : 'sha256-CLt1oszpQ8HUx+TGV5aIxN/eFy0vHPYkd/jAbhHldeE='</li>
 </ul>
 
 ### Version 1.0.1

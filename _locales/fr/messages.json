@@ -7,14 +7,14 @@
 
     "appDesc" :
     {
-        "message" : "Protège votre vie privée et modifie le theme.",
+        "message" : "Protège votre vie privée et modifies le theme.",
         "description" : "The description of the application, displayed in the web store."
     },
 
     "version":
     {
         "message" : "Version",
-        "description" : "Change this only if in the languages you translate version is writter with another spelling."
+        "description" : "Change this only if in the languages you translate version is written with another spelling."
     },
 
     "privacy" :
