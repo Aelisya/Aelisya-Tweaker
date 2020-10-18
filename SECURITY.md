@@ -4,10 +4,11 @@
 
 Currently being supported with security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
-|   2.x   | :white_check_mark: |
-|   1.x   | :x:                |
+| Version | Supported          | Manifest  Version |
+| ------- | ------------------ | ----------------- |
+|  3 dev  | :white_check_mark: |         3         |
+|   2.x   | :white_check_mark: |         2         |
+|   1.x   | :x:                |         2         |
 
 ## Reporting a Vulnerability
 
