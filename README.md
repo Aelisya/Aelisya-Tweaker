@@ -6,7 +6,7 @@ Add security and privacy with this extension.
 - Add modern Scrollbar to the browser (instead of the white from windows).
 
 ## Report a bug or asking for a feature ?
-Follow the template or the issue will be closed immediately without reading.
+Follow the template or the issue will be closed immediately without reading !
 
 ## What's happened to Release ?
 Like i have said in the licence the only one who helped me have stollen some code and since i wasn't aware and after some discussion with the owner of the code i do my best to reduce the possibility of anyone to access to this stolen code, so all release are stopped (on github, release on official store are on their way), and i don't work with anyone who don't work with github.
