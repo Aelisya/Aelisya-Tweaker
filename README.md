@@ -5,6 +5,9 @@ Add security and privacy with this extension.
 - Noopener Noreferrer Nofollow to _blank link.
 - Add modern Scrollbar to the browser (instead of the white from windows).
 
+## Installation
+<a href="https://microsoftedge.microsoft.com/addons/detail/aelisya/ackodolhpbogckmcjkfdcgifhigeghkg"><img src="https://raw.githubusercontent.com/aelisya/Aelisya-Tweaker/master/icons/EdgeStore.webp" width="315"></img></a>
+
 ## Report a bug or asking for a feature ?
 Follow the template or the issue will be closed immediately without reading !
 
@@ -32,7 +35,7 @@ Released xx/xx/2020 (MM/DD/AAAA) :
 </ul>
 
 ### Version 1.2.8
-Released 10/14/2020 (MM/DD/AAAA) :
+Released on edge store 10/14/2020 (MM/DD/AAAA) :
 <ul>
 <li>Preparation for publish on edge-store</li>
 <li>Remove integrity check on html</li>
