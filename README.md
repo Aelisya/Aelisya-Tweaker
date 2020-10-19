@@ -11,11 +11,6 @@ Add security and privacy with this extension.
 ## Report a bug or asking for a feature ?
 Follow the template or the issue will be closed immediately without reading !
 
-## What's happened to Release ?
-Like i have said in the licence the only one who helped me have stollen some code and since i wasn't aware and after some discussion with the owner of the code i do my best to reduce the possibility of anyone to access to this stolen code, so all release are stopped (on github, release on official store are on their way), and i don't work with anyone who don't work with github.
-They was understanding because this code was deprecated but its was their property, so they have authorized me to use it but i rewrite the extension so i remove this stollen code and i obfuscate it a maximum.
-The new code written exclusively by me this time is in CC BY-NC-ND 4.0.
-
 ## Release Notes
 
 ### Version 2.1 (Finalized submitted for review)
