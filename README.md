@@ -23,7 +23,6 @@ Released xx/xx/2020 (MM/DD/AAAA) :
 <li>Reintegration of previously removed integrity-check for the popup</li>
 <li>Adding support for color change who follow browser/os preference to scrollbar</li>
 <li>Various optimizations for some js and manifest to try to improve speed and security</li>
-<li>Release on GitHub removed, official store release on their way : validation process right now</li>
 <li>Temporary drop the support of Firefox since they don't implement declarativeNetRequest</li>
 <li>Adapting Scrollbar to edge system's settings one</li>
 <li>Licence Modified from all right reserved to CC BY-NC-ND 4.0 (Only apply on V2 when it will be finished prior this all right reserved is applicable)</li>
@@ -32,6 +31,7 @@ Released xx/xx/2020 (MM/DD/AAAA) :
 ### Version 1.2.8
 Released on edge store 10/14/2020 (MM/DD/AAAA) :
 <ul>
+<li>Release on GitHub removed : Released on Store edge (chromium)</li>
 <li>Preparation for publish on edge-store</li>
 <li>Remove integrity check on html</li>
 <li>Change color for edge</li>
