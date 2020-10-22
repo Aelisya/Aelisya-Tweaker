@@ -27,5 +27,11 @@
     {
         "message" : "Licence",
         "description" : "The text link of the licence in the popup."
+    },
+
+    "feature" :
+    {
+        "message" : "Bug report",
+        "description" : "Button who redirect to the feature request / bug report on GitHub"
     }
 }
