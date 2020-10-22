@@ -14,6 +14,4 @@ Currently being supported with security updates.
 
 Use this section to tell people how to report a vulnerability.
 
-Come on this telegram canal, start say hi and start a secret chat with me \
-Please don't forget to tell my the name of the software who as security problem \
-This telegram server is for all my dev software : https://t.me/joinchat/AAAAAFFTFHorrlAJ07HMig
+You can send me a mail to : bevode.aelisya@outlook.com
