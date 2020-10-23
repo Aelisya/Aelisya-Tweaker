@@ -13,6 +13,15 @@ Follow the template or the issue will be closed immediately without reading !
 
 ## Release Notes
 
+### Version 3.0
+Released xx/xx/2020 (MM/DD/AAAA) (Finalized sended to revision for update) :
+<ul>
+<li>Blocking ping requests with declarativeNetRequest (Preparation for Manifest V3)</li>
+<li>Upgrade insecure (http) request with declarativeNetRequest for defeat mixed contents (Preparation for Manifest V3)</li>
+<li>Add link to report bug or asking for news features</li>
+<li>Change permission to all https (if you want to upgrade http to https on an https page we have to have right to do so)</li>
+</ul>
+
 ### Version 2.1
 Released 10/22/2020 (MM/DD/AAAA) :
 <ul>
