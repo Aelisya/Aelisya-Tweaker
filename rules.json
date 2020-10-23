@@ -75,7 +75,7 @@
             }]
         },
         "condition": {
-            "regexFilter": "^(?:https|http):\/\/*",
+            "regexFilter": "^https:\/\/*",
             "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "csp_report", "media", "websocket", "other"]
         }
         
