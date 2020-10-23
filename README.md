@@ -3,7 +3,9 @@ Add security and privacy with this extension.
 
 - AMP redirection.
 - Noopener Noreferrer Nofollow to _blank link.
-- Add modern Scrollbar to the browser (instead of the white from windows).
+- Add modern Scrollbar to the browser (follow system color).
+- Blocking ping requests.
+- Upgrade insecure request. 
 
 ## Installation
 <a href="https://microsoftedge.microsoft.com/addons/detail/aelisya/ackodolhpbogckmcjkfdcgifhigeghkg"><img src="https://raw.githubusercontent.com/aelisya/Aelisya-Tweaker/master/icons/EdgeStore.webp" width="315"></img></a>
