@@ -62,5 +62,32 @@
             "regexFilter": "^(?:https|http):\/\/t.co\/(.*).+amp=1",
             "resourceTypes": ["main_frame"]
         }
+    },
+    {
+        "id": 6,
+        "priority": 1,
+        "action": {
+            "type": "modifyHeaders",
+            "responseHeaders": [{ 
+                "header": "Content-Security-Policy",
+                "operation": "set",
+                "value": "upgrade-insecure-requests" 
+            }]
+        },
+        "condition": {
+            "regexFilter": "^(?:https|http):\/\/*",
+            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "csp_report", "media", "websocket", "other"]
+        }
+        
+    },
+    {
+        "id": 7,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "resourceTypes": ["ping"]
+        }
     }
 ]
