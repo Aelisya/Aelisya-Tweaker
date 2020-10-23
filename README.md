@@ -13,8 +13,8 @@ Follow the template or the issue will be closed immediately without reading !
 
 ## Release Notes
 
-### Version 3.0
-Released xx/xx/2020 (MM/DD/AAAA) (Finalized sended to revision for update) :
+### Version 3.0 (Finalized sended to revision for update)
+Released xx/xx/2020 (MM/DD/AAAA) :
 <ul>
 <li>Blocking ping requests with declarativeNetRequest (Preparation for Manifest V3)</li>
 <li>Upgrade insecure (http) request with declarativeNetRequest for defeat mixed contents (Preparation for Manifest V3)</li>
