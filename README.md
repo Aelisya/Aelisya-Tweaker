@@ -16,13 +16,11 @@ Follow the template or the issue will be closed immediately without reading !
 ## Release Notes
 
 ### Version 3.1
-Released xx/xx/2020 (MM/DD/AAAA) :
 <ul>
 <li>Bug correction who doesn't redirect AMP page from another TLD than .com</li>
 </ul>
 
 ### Version 3.0
-Released xx/xx/2020 (MM/DD/AAAA) :
 <ul>
 <li>Blocking ping requests with declarativeNetRequest (Preparation for Manifest V3)</li>
 <li>Upgrade insecure (http) request with declarativeNetRequest for defeat mixed contents (Preparation for Manifest V3)</li>
@@ -31,7 +29,6 @@ Released xx/xx/2020 (MM/DD/AAAA) :
 </ul>
 
 ### Version 2.1
-Released 10/22/2020 (MM/DD/AAAA) :
 <ul>
 <li>Rewriting AMP redirection from scratch with declarativeNetRequest instead of webrequest (Preparation for Manifest V3)</li>
 <li>Rewriting CSP for more security (Preparation for Manifest V3)</li>
@@ -46,7 +43,6 @@ Released 10/22/2020 (MM/DD/AAAA) :
 </ul>
 
 ### Version 1.2.8
-Released on edge store 10/14/2020 (MM/DD/AAAA) :
 <ul>
 <li>Release on GitHub removed : Released on Store edge (chromium)</li>
 <li>Preparation for publish on edge-store</li>
@@ -56,7 +52,6 @@ Released on edge store 10/14/2020 (MM/DD/AAAA) :
 </ul>
 
 ### Version 1.2.7
-Released 09/21/2020 (MM/DD/AAAA) :
 <ul>
 <li>Optimizations</li>
 <li>Color Change</li>
@@ -65,76 +60,64 @@ Released 09/21/2020 (MM/DD/AAAA) :
 </ul>
 
 ### Version 1.2.6
-Released 09/16/2020 (MM/DD/AAAA) :
 <ul>
 <li>Bug Correction</li>
 </ul>
 
 ### Version 1.2.5
-Released 09/16/2020 (MM/DD/AAAA) :
 <ul>
 <li>Swisscows implemented</li>
 <li>Add 1.2.4 to release (forgotten)</li>
 </ul>
 
 ### Version 1.2.4
-Released 09/08/2020 (MM/DD/AAAA) :
 <ul>
 <li>Remove Swisscows temporary</li>
 </ul>
 
 ### Version 1.2.3
-Released 09/07/2020 (MM/DD/AAAA) :
 <ul>
 <li>Micro css patch to remove double margin in scrollbar (top and bottom)</li>
 </ul>
 
 ### Version 1.2.2
-Released 09/07/2020 (MM/DD/AAAA) :
 <ul>
 <li>Change Color to math Gnome one</li>
 </ul>
 
 ### Version 1.2.1
-Released 09/04/2020 (MM/DD/AAAA) :
 <ul>
 <li>Add Swisscows cleaning after using my <a href="https://github.com/aelisya/adblock">adblock list</a></li>
 <li>Remove E-tag stop too many error for now</li>
 </ul>
 
 ### Version 1.2.0
-Released 09/04/2020 (MM/DD/AAAA) :
 <ul>
 <li>Add AMP redirection support</li>
 </ul>
 
 ### Version 1.1.3
-Released 09/02/2020 (MM/DD/AAAA) :
 <ul>
 <li>Change Privacy Link</li>
 </ul>
 
 ### Version 1.1.2
-Released 08/31/2020 (MM/DD/AAAA) :
 <ul>
 <li>Add E-tag tracking protection</li>
 </ul>
 
 ### Version 1.1.1
-Released 08/30/2020 (MM/DD/AAAA) :
 <ul>
 <li>Removing user selection none added by mistake on the stable version</li>
 </ul>
 
 ### Version 1.1.0
-Released 08/28/2020 (MM/DD/AAAA) :
 <ul>
 <li>Add privacy policies of the extension</li>
 <li>Add SRI (sub-resources integrity to css and js in html page)</li>
 </ul>
 
 ### Version 1.0.1
-Released 08/28/2020 (MM/DD/AAAA) :
 <ul>
 <li>Initial release of the news version</li>  
 </ul>
