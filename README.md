@@ -13,6 +13,10 @@ Add security and privacy with this extension.
 ## Report a bug or asking for a feature ?
 Follow the template or the issue will be closed immediately without reading !
 
+## Chrome or Firefox
+ - For the Firefox Case : Definitely droped, since they just mimic chrome i don't have time to loss to do the port on their plateform.
+ - For the Chrome case i don't want to pay a cent to them, but if my extension must be on it (suddenly increase of user i can change my mind).
+
 ## Release Notes
 
 ### Version 3.1
