@@ -6,7 +6,7 @@
             "type": "block"
         },
         "condition": {
-            "regexFilter": "^(?:https|http):\/\/www.(?:bing|google).com\/amp\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))",
+            "regexFilter": "^(?:https|http):\/\/www.(?:bing|google).(?:[a-zA-Z0-9])\/amp\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))",
             "resourceTypes": ["main_frame"]
         }
     },
@@ -20,7 +20,7 @@
             }
         },
         "condition": {
-            "regexFilter": "^(?:https|http):\/\/www.(?:bing|google).com\/amp\/s\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))",
+            "regexFilter": "^(?:https|http):\/\/www.(?:bing|google).(?:[a-zA-Z0-9])\/amp\/s\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))",
             "resourceTypes": ["main_frame"]
         }
     },
