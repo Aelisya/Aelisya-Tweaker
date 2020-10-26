@@ -19,6 +19,11 @@ Follow the template or the issue will be closed immediately without reading !
 
 ## Release Notes
 
+### Version 3.2
+<ul>
+<li>Bug correction in AMP regexp</li>
+</ul>
+
 ### Version 3.1
 <ul>
 <li>Bug correction who doesn't redirect AMP page from another TLD than .com</li>
