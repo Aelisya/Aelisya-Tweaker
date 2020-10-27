@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[Issue] "
-labels: ''
-assignees: aelisya
+labels: To be validated
+assignees: michaelb-ae
 
 ---
 
