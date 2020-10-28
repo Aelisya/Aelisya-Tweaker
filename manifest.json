@@ -35,7 +35,7 @@
     },
 
     "content_scripts": [{
-            "css": ["css/scrollbar.css"],
+            "css": ["css/css.css"],
             "js": ["js/noopener.js"],
             "matches": ["https://*/*"],
             "all_frame": true,

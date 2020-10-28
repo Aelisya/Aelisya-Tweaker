@@ -67,6 +67,16 @@
         "id": 6,
         "priority": 1,
         "action": {
+            "type": "block"
+        },
+        "condition": {
+            "resourceTypes": ["ping", "csp_report"]
+        }
+    },
+    {
+        "id": 7,
+        "priority": 1,
+        "action": {
             "type": "modifyHeaders",
             "responseHeaders": [{ 
                 "header": "Content-Security-Policy",
@@ -76,18 +86,30 @@
         },
         "condition": {
             "regexFilter": "^https:\/\/*",
-            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "csp_report", "media", "websocket", "other"]
+            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
         }
         
     },
     {
-        "id": 7,
+        "id": 8,
         "priority": 1,
         "action": {
             "type": "block"
         },
         "condition": {
-            "resourceTypes": ["ping"]
+            "regexFilter": "^(?:https|http):\/\/.*(?:sentry|bugsnag).*js",
+            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
+        }
+    },
+    {
+        "id": 9,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^(?:https|http):\/\/.*(?:swf|swf2)",
+            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
         }
     }
 ]
