@@ -24,16 +24,18 @@ Follow the template or the issue will be closed immediately without reading !
 <li>Block CSP report with DeclarativeNetRequest (preparation for manifest V3)</li>
 <li>Block sentry & bugsnag with DeclarativeNetRequest (preparation for manifest V3)</li>
 <li>Block Flash object with DeclarativeNetRequest & remove with css(preparation for manifest V3)</li>
+<li>Bug correction who doesn't redirect AMP page from another TLD than .com</li>
+<li>Bug correction in AMP regexp</li>
 </ul>
 
 ### Version 3.2
 <ul>
-<li>Bug correction in AMP regexp</li>
+
 </ul>
 
 ### Version 3.1
 <ul>
-<li>Bug correction who doesn't redirect AMP page from another TLD than .com</li>
+
 </ul>
 
 ### Version 3.0
