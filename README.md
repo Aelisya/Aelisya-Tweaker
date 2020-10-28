@@ -31,16 +31,6 @@ Follow the template or the issue will be closed immediately without reading !
 <li>Bug correction in AMP regexp</li>
 </ul>
 
-### Version 3.2
-<ul>
-
-</ul>
-
-### Version 3.1
-<ul>
-
-</ul>
-
 ### Version 3.0
 <ul>
 <li>Blocking ping requests with declarativeNetRequest (Preparation for Manifest V3)</li>
