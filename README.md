@@ -19,6 +19,13 @@ Follow the template or the issue will be closed immediately without reading !
 
 ## Release Notes
 
+### Version 4.0
+<ul>
+<li>Block CSP report with DeclarativeNetRequest (preparation for manifest V3)</li>
+<li>Block sentry & bugsnag with DeclarativeNetRequest (preparation for manifest V3)</li>
+<li>Block Flash object with DeclarativeNetRequest & remove with css(preparation for manifest V3)</li>
+</ul>
+
 ### Version 3.2
 <ul>
 <li>Bug correction in AMP regexp</li>
