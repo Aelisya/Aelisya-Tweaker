@@ -13,7 +13,7 @@ Currently being supported with security updates**.
 |   2.x   | :x:                |         2         |
 |   1.x   | :x:                |         2         |
 
-* 'ae' means Alpha Edition, 'de' means Developement Edition.
+* 'ae' means Alpha Edition, 'de' means Developement Edition.\
 ** when a new version is submitted for review by microsoft the previous version is dropped.
 
 When a version is sended to verification to the store, the version actually used become deprecated.
