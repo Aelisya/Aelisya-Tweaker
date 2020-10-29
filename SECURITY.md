@@ -2,17 +2,19 @@
 
 ## Supported Versions
 
-Currently being supported with security updates.
+Currently being supported with security updates**.
 
 | Version | Supported          | Manifest  Version |
 | ------- | ------------------ | ----------------- |
-|   5ae*  | :white_check_mark: |         3         |
-|   4de*  | :white_check_mark: |         2         |
-|   3.x   | :white_check_mark: |         2         |
+|   6ae*  | :white_check_mark: |         3         |
+|   5de*  | :white_check_mark: |         2         |
+|   4.x   | :white_check_mark: |         2         |
+|   3.x   | :x:                |         2         |
 |   2.x   | :x:                |         2         |
 |   1.x   | :x:                |         2         |
 
 * 'ae' means Alpha Edition, 'de' means Developement Edition.
+** when a new version is submitted for review by microsoft the previous version is dropped.
 
 When a version is sended to verification to the store, the version actually used become deprecated.
 If you found a vunlerability don't wait to see if the new version is patched, because since the code is reviewed mannually it take some time and i have the possibility to change the code to be reviewed before the review begin.
