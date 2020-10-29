@@ -6,7 +6,7 @@ Currently being supported with security updates**.
 
 | Version | Supported          | Manifest  Version |
 | ------- | ------------------ | ----------------- |
-|   6ae*  | :white_check_mark: |         3         |
+|   Xae*  | :white_check_mark: |         3         |
 |   5de*  | :white_check_mark: |         2         |
 |   4.x   | :white_check_mark: |         2         |
 |   3.x   | :x:                |         2         |
