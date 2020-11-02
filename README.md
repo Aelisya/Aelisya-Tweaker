@@ -16,8 +16,9 @@ Add security and privacy with this extension.
 ## Report a bug or asking for a feature ?
 Follow the template or the issue will be closed immediately without reading !
 ### Can't do anything ?
-If you are a new user it's normal, my account have for security reason (after the stealing case by my previous online "friend"), i have enforced a delay of 6 month where only existing user can push anything to my repository these 6 month will permit me to prepare a way to verify if code pushed is stealed or no before the merging.
-The actual month where this enforcement will be disabled is : May 2021
+If you are a new user it's normal, my account have for security reason (after the stealing case by my previous online "friend"), i have enforced a delay of 6 month where only existing user can push anything to my repository.\ 
+These 6 month will permit me to prepare a way to verify if code pushed is stealed or no before the merging.\
+The actual month where this enforcement will be disabled is : **May 2021**
 
 ## Manifest V3
 The code for supporting manifest V3 is done and work very smoothly but since actually the stable version of Edge don't support it without error the migration is reported.\
