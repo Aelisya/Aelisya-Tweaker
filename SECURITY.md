@@ -9,9 +9,7 @@ Currently being supported with security updates**.
 |   Xae*  | :white_check_mark: |         3         |
 |   5de*  | :white_check_mark: |         2         |
 |   4.x   | :white_check_mark: |         2         |
-|   3.x   | :x:                |         2         |
-|   2.x   | :x:                |         2         |
-|   1.x   | :x:                |         2         |
+|  <=4.x  | :x:                |         2         |
 
 \* 'ae' means Alpha Edition, 'de' means Developement Edition.\
 ** when a new version is submitted for review by Microsoft the previous version is dropped.
