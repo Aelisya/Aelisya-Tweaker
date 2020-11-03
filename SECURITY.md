@@ -6,12 +6,12 @@ Currently being supported with security updates**.
 
 | Version | Supported          | Manifest  Version |
 | ------- | ------------------ | ----------------- |
-|   Xae*  | :white_check_mark: |         3         |
-|   5de*  | :white_check_mark: |         2         |
-|   4.x   | :white_check_mark: |         2         |
-|  <=4.x  | :x:                |         2         |
+|   av*   | :white_check_mark: |         3         |
+|   dv*   | :white_check_mark: |         2         |
+|   sv*   | :white_check_mark: |         2         |
+|   <sv   | :x:                |         2         |
 
-\* 'ae' means Alpha Edition, 'de' means Developement Edition.\
+\* 'ae' means Alpha Version, 'de' means Developement Version, sv means Store Version, <sv means any version prior the store one.\
 ** when a new version is submitted for review by Microsoft the previous version is dropped.
 
 When a version is sended to verification to the store, the version actually used become deprecated.
