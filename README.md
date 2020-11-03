@@ -1,3 +1,4 @@
+![OSSAR](https://github.com/michaelb-ae/Aelisya-Tweaker/workflows/OSSAR/badge.svg)![CodeQL](https://github.com/michaelb-ae/Aelisya-Tweaker/workflows/CodeQL/badge.svg?branch=master)
 # Aelisya Tweaker
 Add security and privacy with this extension.
 
