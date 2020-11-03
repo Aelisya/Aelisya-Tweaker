@@ -94,6 +94,22 @@
         "id": 8,
         "priority": 1,
         "action": {
+            "type": "modifyHeaders",
+            "responseHeaders": [{ 
+                "header": "ETag",
+                "operation": "remove"
+            }]
+        },
+        "condition": {
+            "regexFilter": "^(?:https|http):\/\/*",
+            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
+        }
+        
+    },
+    {
+        "id": 9,
+        "priority": 1,
+        "action": {
             "type": "block"
         },
         "condition": {
@@ -102,7 +118,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 10,
         "priority": 1,
         "action": {
             "type": "block"
