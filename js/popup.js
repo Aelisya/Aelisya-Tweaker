@@ -9,7 +9,5 @@ feature.textContent = i18n.getMessage('feature');
 options.addEventListener('click',()=>{
     if (chrome.runtime.openOptionsPage) {
         chrome.runtime.openOptionsPage();
-    } else {
-        window.open(chrome.runtime.getURL('../pages/options.html'));
     }
 });
