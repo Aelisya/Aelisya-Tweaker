@@ -3,7 +3,7 @@
 Add security and privacy with this extension.
 
 - AMP redirection.
-- Noopener Noreferrer Nofollow to _blank link.
+- Noopener Noreferrer to _blank link.
 - Add modern Scrollbar to the browser (follow system color).
 - Blocking ping requests.
 - Upgrade insecure request.
@@ -33,6 +33,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 <li>Bug correction in noopener on unsecure http</li>
 <li>Bug correction in scrollbar on unsecure http</li>
 <li>E-tag tracking protection with DeclarativeNetRequest (preparation for manifest V3)</li>
+<li>Removing nofollow addition in _blank link</li>
 <li>... Other thing in developement will be added in this draft once finished ...</li>
 </ul>
 
