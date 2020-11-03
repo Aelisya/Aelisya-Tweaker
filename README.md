@@ -1,5 +1,5 @@
-![OSSAR](https://github.com/michaelb-ae/Aelisya-Tweaker/workflows/OSSAR/badge.svg)![CodeQL](https://github.com/michaelb-ae/Aelisya-Tweaker/workflows/CodeQL/badge.svg?branch=master)
 # Aelisya Tweaker
+![OSSAR](https://github.com/michaelb-ae/Aelisya-Tweaker/workflows/OSSAR/badge.svg)![CodeQL](https://github.com/michaelb-ae/Aelisya-Tweaker/workflows/CodeQL/badge.svg?branch=master)\
 Add security and privacy with this extension.
 
 - AMP redirection.
