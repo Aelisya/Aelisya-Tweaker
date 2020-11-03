@@ -27,6 +27,14 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 
 ## Release Notes
 
+### Version 5.0 (DRAFT)
+<ul>
+<li>Bug correction in AMP on unsecure http</li>
+<li>Bug correction in noopener and scrollbar on unsecure http</li>
+<li>E-tag tracking protection with DeclarativeNetRequest (preparation for manifest V3)</li>
+<li>... Other thing in developement will be added in this draft once finished ...</li>
+</ul>
+
 ### Version 4.0
 <ul>
 <li>Block CSP report with DeclarativeNetRequest (preparation for manifest V3)</li>
