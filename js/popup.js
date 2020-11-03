@@ -1,11 +1,15 @@
 const i18n = chrome.i18n;
 const manifest = chrome.runtime.getManifest();
 const version = document.getElementById('version');
-const privacy = document.getElementById('privacy');
-const licence = document.getElementById('licence');
+const options = document.getElementById('options');
 const feature = document.getElementById('feature');
-
 version.textContent = i18n.getMessage('version') + " " + manifest.version;
-privacy.textContent = i18n.getMessage('privacy');
-licence.textContent = i18n.getMessage('licence');
+options.textContent = i18n.getMessage('options');
 feature.textContent = i18n.getMessage('feature');
+options.addEventListener('click',()=>{
+    if (chrome.runtime.openOptionsPage) {
+        chrome.runtime.openOptionsPage();
+    } else {
+        window.open(chrome.runtime.getURL('../pages/options.html'));
+    }
+});

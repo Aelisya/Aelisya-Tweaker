@@ -38,6 +38,14 @@ footer {
     text-align: center
 }
 
+.link {
+    border-right: #CECECE;
+    border-right-style: solid;
+    border-right-width: 1px;
+    margin-right: 5px;
+    margin-left: 2px
+}
+
 #logoPict {
     margin-top: 10px
 }

@@ -17,16 +17,10 @@
         "description" : "Change this only if in the languages you translate version is written with another spelling."
     },
 
-    "privacy" :
+    "options" :
     {
-        "message" : "Privacy policy",
-        "description" : "The text link of the privacy in the popup."
-    },
-
-    "licence" :
-    {
-        "message" : "Licence",
-        "description" : "The text link of the licence in the popup."
+        "message" : "Options",
+        "description" : "Button who Open option page"
     },
 
     "feature" :
