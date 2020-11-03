@@ -9,7 +9,7 @@ Currently being supported with security updates².
 |   av*   | :white_check_mark: |         3         |
 |   dv*   | :white_check_mark: |         2         |
 |   sv*   | :white_check_mark: |         2         |
-|   <sv   | :x:                |         *         |
+|   <sv   | :x:                |         /         |
 
 \* 'av' means Alpha Version, 'dv' means Developement Version, sv means Store Version, <sv means any version prior the store one.\
 ² when a new version is submitted for review by Microsoft the previous version is dropped.
