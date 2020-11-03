@@ -6,12 +6,12 @@ Currently being supported with security updates².
 
 | Version | Supported          | Manifest  Version |
 | ------- | ------------------ | ----------------- |
-|   av*   | :white_check_mark: |         3         |
+|   ev*   | :x:                |         3         |
 |   dv*   | :white_check_mark: |         2         |
 |   sv*   | :white_check_mark: |         2         |
 |   <sv   | :x:                |         /         |
 
-\* 'av' means Alpha Version, 'dv' means Developement Version, sv means Store Version, <sv means any version prior the store one.\
+\* 'ev' means Experimental Version, 'dv' means Developement Version, sv means Store Version, <sv means any version prior the store one.\
 ² when a new version is submitted for review by Microsoft the previous version is dropped.
 
 When a version is sended to verification to the store, the version actually used become deprecated.
