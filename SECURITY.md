@@ -19,5 +19,4 @@ If you found a vunlerability don't wait to see if the new version is patched, be
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
 You can send me a mail to : bevode.aelisya@outlook.com
