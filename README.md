@@ -35,9 +35,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 <li>E-tag tracking protection with DeclarativeNetRequest (preparation for manifest V3)</li>
 <li>Removing nofollow addition in _blank link</li>
 <li>Minor performance optimization</li>
-<li>Adding option page</li>
-<li>Adding update http to https (with switch)</li>
-<li>Sync the state of switch with Microsoft edge accounts</li>
+<li>Adding option page (empty for now)</li>
 </ul>
 
 ### V 4.0
