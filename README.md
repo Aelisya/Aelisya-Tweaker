@@ -27,7 +27,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 
 ## Release Notes
 
-### Version 5.0 (DRAFT) on hold to publish because a function of DNR api isn't available before 87
+### V 5.0 (DRAFT) on hold to publish because a function of DNR api isn't available before 87
 <ul>
 <li>Bug correction in AMP on unsecure http</li>
 <li>Bug correction in noopener on unsecure http</li>
@@ -40,7 +40,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 <li>... Other thing in developement will be added in this draft once finished ...</li>
 </ul>
 
-### Version 4.0
+### V 4.0
 <ul>
 <li>Block CSP report with DeclarativeNetRequest (preparation for manifest V3)</li>
 <li>Block sentry & bugsnag with DeclarativeNetRequest (preparation for manifest V3)</li>
@@ -49,7 +49,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 <li>Bug correction in AMP regexp</li>
 </ul>
 
-### Version 3.0
+### V 3.0
 <ul>
 <li>Blocking ping requests with declarativeNetRequest (Preparation for Manifest V3)</li>
 <li>Upgrade insecure (http) request with declarativeNetRequest for defeat mixed contents (Preparation for Manifest V3)</li>
@@ -57,7 +57,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 <li>Change permission to all https (if you want to upgrade http to https on an https page we have to have right to do so)</li>
 </ul>
 
-### Version 2.1
+### V 2.1
 <ul>
 <li>Rewriting AMP redirection from scratch with declarativeNetRequest instead of webrequest (Preparation for Manifest V3)</li>
 <li>Rewriting CSP for more security (Preparation for Manifest V3)</li>
