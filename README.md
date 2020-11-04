@@ -36,6 +36,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 <li>Removing nofollow addition in _blank link</li>
 <li>Minor performance optimization</li>
 <li>Adding option page (empty for now)</li>
+<li>Design change of the popup page</li>
 </ul>
 
 ### V 4.0
