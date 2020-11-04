@@ -35,6 +35,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 <li>E-tag tracking protection with DeclarativeNetRequest (preparation for manifest V3)</li>
 <li>Removing nofollow addition in _blank link</li>
 <li>Minor performance optimization</li>
+<li>Adding option page</li>
 <li>... Other thing in developement will be added in this draft once finished ...</li>
 </ul>
 
