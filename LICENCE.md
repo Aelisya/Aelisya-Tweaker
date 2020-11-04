@@ -1,14 +1,3 @@
-# This LICENCE apply ONLY on version 2 and later, before the release of version 2 ALL RIGHT RESERVED IS APPLIED
-
-## Why this very hard restriction on version ?
-
-It's very simple, on the version one an online friend helped me to mark some function but i have found recently some part of the code was copied literally from internet without the licence.
-
-One of the developer of the two part of the stollen code have contacted me in private and have asked why some part of its code was there without it's authorization, so i have asked this "friend" who haven't replied.
-So they will search for him (with the information on him who they asked me).
-
-So i have apologized and after some discussion with the owner (an enterprise) have accepted to let me use it but since i don't like to use stealed product i have proposed something else, since i haven't a this time, done any licence i will decide to All right reserved to all version prior 2, and rewrite the stealed code (and i have profited to pass on news technology in the process), like that i can use the CC BY-NC-ND 4.0 without violating their licence who is All Right Reserved (so thanks to them for there understanding).
-
 # Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
