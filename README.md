@@ -27,7 +27,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 
 ## Release Notes
 
-### V 5.0 (DEV) on hold to publish because a function of DNR api isn't available before 87
+### V 5.0 (Sended to microsoft for publication)
 <ul>
 <li>Bug correction in AMP on unsecure http</li>
 <li>Bug correction in noopener on unsecure http</li>
