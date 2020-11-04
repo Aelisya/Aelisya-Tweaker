@@ -34,6 +34,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 <li>Bug correction in scrollbar on unsecure http</li>
 <li>E-tag tracking protection with DeclarativeNetRequest (preparation for manifest V3)</li>
 <li>Removing nofollow addition in _blank link</li>
+<li>Minor performance optimization</li>
 <li>... Other thing in developement will be added in this draft once finished ...</li>
 </ul>
 
