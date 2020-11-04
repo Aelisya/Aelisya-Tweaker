@@ -1,6 +1,5 @@
 {
     "manifest_version": 2,
-
     "name": "__MSG_appName__",
     "version": "5.0",
     "description": "__MSG_appDesc__",
@@ -11,16 +10,13 @@
     },
     "homepage_url": "https://github.com/michaelb-ae/Aelisya-Tweaker",
     "default_locale": "en",
-
     "content_security_policy": "default-src 'self'",
-
     "permissions": [
         "http://*/*",
         "https://*/*",
         "declarativeNetRequest",
         "storage"
     ],
-
     "declarative_net_request": {
         "rule_resources": [{
           "id": "ruleset_1",
@@ -28,19 +24,16 @@
           "path": "rules.json"
         }]
     },
-
     "options_ui": {
         "page": "pages/options.html",
         "open_in_tab": false
     },
-
     "browser_action": {
         "default_icon": {
             "48": "icons/icon48.png"
         },
         "default_popup": "pages/popup.html"
     },
-
     "content_scripts": [{
             "css": ["css/css.css"],
             "js": ["js/noopener.js"],
