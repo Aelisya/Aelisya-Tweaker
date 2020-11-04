@@ -27,7 +27,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 
 ## Release Notes
 
-### Version 5.0 (DRAFT)
+### Version 5.0 (DRAFT) : on hold to publish because a function of DNR api isn't available before 87
 <ul>
 <li>Bug correction in AMP on unsecure http</li>
 <li>Bug correction in noopener on unsecure http</li>
@@ -36,6 +36,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 <li>Removing nofollow addition in _blank link</li>
 <li>Minor performance optimization</li>
 <li>Adding option page</li>
+<li>Adding update http to https (with switch)</li>
 <li>... Other thing in developement will be added in this draft once finished ...</li>
 </ul>
 
