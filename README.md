@@ -10,6 +10,7 @@ Add security and privacy with this extension.
 - Block CSP_REPORT.
 - Block Flash object.
 - Block Sentry and Bugsnag.
+- E-Tag Track protection.
 
 ## Installation
 <a href="https://microsoftedge.microsoft.com/addons/detail/aelisya/ackodolhpbogckmcjkfdcgifhigeghkg"><img src="https://raw.githubusercontent.com/aelisya/Aelisya-Tweaker/master/icons/EdgeStore.webp" width="315"></img></a>
