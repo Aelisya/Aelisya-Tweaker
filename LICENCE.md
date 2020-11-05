@@ -1,5 +1,6 @@
 # Aelisya-Public-License V1
 * If a right isn't written in this license this right is automatically FORBIDDEN
+* These file means any file generated in this repository or under the name of AELISYA
 * This License apply everywhere
 * Only the licensor can tell if an interpretation is correct or incorrect
 * If another license exists before this one this one is automatically the one used even on older releases
@@ -17,7 +18,7 @@
 
 ## Forbidden
 * You cannot use any of these file for any purpose other than helping the project
-* If you do security research you cannot copy the code on another medium (only link to this repository or you fork can be done)
+* If you do security research you cannot copy the code on another medium (only link to this repository or your fork can be done)
 * You cannot redistribute them
 * You cannot modify them
 * You cannot sell them
