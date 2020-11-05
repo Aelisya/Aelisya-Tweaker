@@ -22,10 +22,6 @@ Follow the template or the issue will be closed immediately without reading !
 The code for supporting manifest V3 is done and work very smoothly but since actually the stable version of Edge don't support it without error the migration is reported.\
 I develop new fonctions with the V3 code in mind for a faster update when the stable allow me to migrate.
 
-## Chrome or Firefox
- - For the Firefox Case : Definitely droped, since they just mimic chrome i don't have time to loss to do the port on their plateform.
- - For the Chrome case i don't want to pay a cent to them, but if my extension must be on it (suddenly increase of user i can change my mind).
-
 ## Release Notes
 
 ### V 5.0 (Sended to microsoft for publication)
@@ -67,5 +63,4 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 <li>Adding support for color change who follow browser/os preference to scrollbar</li>
 <li>Various optimizations for some js and manifest to try to improve speed and security</li>
 <li>Adapting Scrollbar to edge system's settings one</li>
-<li>Licence Modified from all right reserved to CC BY-NC-ND 4.0 (Only apply on V2 when it will be finished prior this all right reserved is applicable)</li>
 </ul>
