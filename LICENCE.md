@@ -39,3 +39,7 @@
 ## Github
 * I autorize GitHub or Microsoft to copy modify transfers execute analyse compile these files only for the purpose of let me use GitHub and all it's functionnality.
 * Every other use is FORBIDDEN
+
+## Microsoft Store
+* I autorize Microsoft to compile/modify/add file thos these file Only for the purpose of publishing this application/extension to their store on the country i have selected on their platform.
+* Other person/entreprise/country are forbidden to publish it without my clear and explicit authorisation
