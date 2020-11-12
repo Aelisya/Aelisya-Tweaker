@@ -18,6 +18,10 @@ Add security and privacy with this extension.
 ## Report a bug or asking for a feature ?
 Follow the template or the issue will be closed immediately without reading !
 
+## I have follow all your rules why my push is refused ?
+From 13/11/2020 all Commit or push request must be signed (green validated) or it will be refused.\
+Why 13/11 because it's the date when i have applied this rules.
+
 ## Manifest V3
 The code for supporting manifest V3 is done and work very smoothly but since actually the stable version of Edge don't support it without error the migration is reported.\
 I develop new fonctions with the V3 code in mind for a faster update when the stable allow me to migrate.
