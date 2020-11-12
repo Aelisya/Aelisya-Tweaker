@@ -24,6 +24,11 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 
 ## Release Notes
 
+### V 6.0 (DRAFT)
+<ul>
+<li>Will be completed when news features done</li>
+</ul>
+
 ### V 5.0
 <ul>
 <li>Bug correction in AMP on unsecure http</li>
