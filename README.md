@@ -43,6 +43,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 <li>Minor performance optimization</li>
 <li>Adding option page (empty for now)</li>
 <li>Design change of the popup page</li>
+<li>Privacy policy moved on the store page for a better transparency</li>
 </ul>
 
 ### V 4.0
