@@ -23,13 +23,6 @@ footer{
     bottom:-100px;
     text-align:center
 }
-.link{
-    border-right:#CECECE;
-    border-right-style:solid;
-    border-right-width:1px;
-    margin-right:5px;
-    margin-left:2px
-}
 #logoPict,#version{
     margin:10px 0 0 0;
     padding:0
