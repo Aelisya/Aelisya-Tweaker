@@ -15,10 +15,6 @@
 ::-webkit-scrollbar-thumb:hover{
     background-color:#979797!important
 }
-div>object,div>embed{
-    display:none;
-    visibility:hidden
-}
 @media(prefers-color-scheme:light){
     ::-webkit-scrollbar-track{
         background-color:#F7F7F7!important
