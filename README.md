@@ -30,7 +30,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 
 ### V 6.0 (DRAFT)
 <ul>
-<li>Will be completed when news features done</li>
+<li>Some tweak and removing option</li>
 </ul>
 
 ### V 5.0
