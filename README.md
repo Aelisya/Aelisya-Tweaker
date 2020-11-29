@@ -28,9 +28,10 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 
 ## Release Notes
 
-### V 6.0 (DRAFT)
+### V 6.0
 <ul>
 <li>Some tweak and removing option</li>
+<li>Bug correction</li>
 </ul>
 
 ### V 5.0
