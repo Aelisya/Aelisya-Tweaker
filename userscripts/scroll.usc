@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        No Opener No Referer
+// @name        Modern Scrollbar
 // @namespace        https://github.com/michaelb-ae/Aelisya-Tweaker
-// @description        Add Noopener noreferer to link "_blank".
-// @description:fr        Ajoute Noopener noreferer sur les lien de type "_blank".
+// @description        Add modern scrollbar.
+// @description:fr        Ajoute une barre de défilement moderne.
 // @include        *://*/*
 // @run-at        document-end
 // @version       1.0
