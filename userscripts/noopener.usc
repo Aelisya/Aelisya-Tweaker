@@ -1,9 +1,11 @@
 // ==UserScript==
-// @name No Opener No Referer
+// @name No Opener No Referer on link
+// @name:fr No Opener No Referer sur les liens
 // @namespace	https://github.com/michaelb-ae/Aelisya-Tweaker
-// @description	Add Noopener noreferer to link "_blank".
-// @description:fr Ajoute Noopener noreferer sur les lien de type "_blank".
-// @include	*://*/*
+// @description	Add Noopener noreferer to link _blank
+// @description:fr Ajoute Noopener noreferer sur les lien de type _blank
+// @version 4.3.37
+// @include	*
 // @run-at document-end
 // @author michael-ae
 // ==/UserScript==
