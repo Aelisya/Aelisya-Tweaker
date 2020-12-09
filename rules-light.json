@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^(?:https|http):\/\/www.(?:bing|google).*\/amp\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))",
+            "resourceTypes": ["main_frame"]
+        }
+    },
+    {
+        "id": 2,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^(?:https|http):\/\/www.(?:bing|google).*\/amp\/s\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))",
+            "resourceTypes": ["main_frame"]
+        }
+    },
+    {
+        "id": 3,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^(?:https|http):\/\/(?:.*cdn.ampproject.org|.*bing-amp.com)\/c\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))", 
+            "resourceTypes": ["main_frame"]
+        }
+    },
+    {
+        "id": 4,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^(?:https|http):\/\/(?:.*cdn.ampproject.org|.*bing-amp.com)\/c\/s\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))",
+            "resourceTypes": ["main_frame"]
+        }
+    },
+    {
+        "id": 5,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^(?:https|http):\/\/t.co\/(.*).+amp=1",
+            "resourceTypes": ["main_frame"]
+        }
+    },
+    {
+        "id": 6,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "resourceTypes": ["ping", "csp_report"]
+        }
+    },
+    {
+        "id": 7,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^(?:https|http):\/\/.*(?:sentry|bugsnag).*js",
+            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
+        }
+    },
+    {
+        "id": 8,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "regexFilter": "^(?:https|http):\/\/.*(?:swf|swf2)",
+            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
+        }
+    }
+]
