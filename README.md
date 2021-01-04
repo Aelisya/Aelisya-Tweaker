@@ -33,7 +33,7 @@ I develop new fonctions with the V3 code in mind for a faster update when the st
 <li>Some tweak and removing option</li>
 <li>Bug correction</li>
 <li>light version for AdGuard Windows with userscript to compensate the script removed from light version for a better privacy/security</li>
-<li>the light version don't icluse js or redirection so they don't ask for any permission at all</li>
+<li>the light version don't iclude js or redirection so they don't ask for any permission at all</li>
 </ul>
 
 ### V 5.0
