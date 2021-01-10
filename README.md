@@ -23,8 +23,7 @@ From 13/11/2020 all Commit or push request must be signed (green validated) or i
 Why 13/11 because it's the date when i have applied this rules.
 
 ## Manifest V3
-The code for supporting manifest V3 is done and work very smoothly but since actually the stable version of Edge don't support it without error the migration is reported.\
-I develop new fonctions with the V3 code in mind for a faster update when the stable allow me to migrate.
+The code for supporting manifest V3 is done and work very smoothly edge 88 support majority of it's code, normally i will publish it with 89 if they integrate it (manifest v3), the package is already uploaded waiting for publication.
 
 ## Release Notes
 
