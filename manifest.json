@@ -1,14 +1,14 @@
 {
     "manifest_version": 2,
     "name": "__MSG_appName__",
-    "version": "7.0",
+    "version": "6.2",
     "description": "__MSG_appDesc__",
     "icons": {
         "48": "icons/icon48.png",
         "128": "icons/icon128.png",
         "256": "icons/icon256.png"
     },
-    "homepage_url": "https://github.com/michaelb-ae/Aelisya-Tweaker",
+    "homepage_url": "https://github.com/Macqael/Aelisya-Tweaker",
     "default_locale": "en",
     "content_security_policy": "default-src 'self'",
     "permissions": [
