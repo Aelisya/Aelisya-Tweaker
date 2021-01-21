@@ -79,23 +79,6 @@
         "action": {
             "type": "modifyHeaders",
             "responseHeaders": [{ 
-                "header": "Content-Security-Policy",
-                "operation": "set",
-                "value": "upgrade-insecure-requests" 
-            }]
-        },
-        "condition": {
-            "regexFilter": "^https:\/\/*",
-            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
-        }
-        
-    },
-    {
-        "id": 8,
-        "priority": 1,
-        "action": {
-            "type": "modifyHeaders",
-            "responseHeaders": [{ 
                 "header": "ETag",
                 "operation": "remove"
             }]
@@ -107,24 +90,13 @@
         
     },
     {
-        "id": 9,
+        "id": 8,
         "priority": 1,
         "action": {
             "type": "block"
         },
         "condition": {
             "regexFilter": "^(?:https|http):\/\/.*(?:sentry|bugsnag).*js",
-            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
-        }
-    },
-    {
-        "id": 10,
-        "priority": 1,
-        "action": {
-            "type": "block"
-        },
-        "condition": {
-            "regexFilter": "^(?:https|http):\/\/.*(?:swf|swf2)",
             "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
         }
     }

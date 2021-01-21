@@ -31,7 +31,6 @@
     },
     "content_scripts": [{
             "css": ["css/css.css"],
-            "js": ["js/noopener.js"],
             "matches": ["https://*/*","http://*/*"],
             "all_frame": true,
             "run_at": "document_idle"

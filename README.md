@@ -3,12 +3,9 @@
 Add security and privacy with this extension.
 
 - AMP redirection.
-- Noopener Noreferrer to _blank link.
 - Add modern Scrollbar to the browser (follow system color).
 - Blocking ping requests.
-- Upgrade insecure request.
 - Block CSP_REPORT.
-- Block Flash object.
 - Block Sentry and Bugsnag.
 - E-Tag Track protection.
 
@@ -26,6 +23,13 @@ Why 13/11 because it's the date when i have applied this rules.
 The code for supporting manifest V3 is done and work very smoothly edge 88 support majority of it's code, normally i will publish it with 89 if they integrate it (manifest v3), the package is already uploaded waiting for publication.
 
 ## Release Notes
+
+### V 6.2
+<ul>
+<li>Removing noopener since edge do it automatically</li>
+<li>Removing updgrade insecure request since edge do it automatically</li>
+<li>Removing block of flash objet since flash insn't present anymore on W10 and edge</li>
+</ul>
 
 ### V 6.0
 <ul>
