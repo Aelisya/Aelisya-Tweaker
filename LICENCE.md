@@ -1,6 +1,6 @@
 # Aelisya-Public-License V1
 * If a right isn't written in this license this right is automatically FORBIDDEN
-* These file means any file generated in this repository or under the name of AELISYA
+* These file means any file generated in this repository or under the name of Macqael
 * This License apply everywhere
 * Only the licensor can tell if an interpretation is correct or incorrect
 * If another license exists before this one this one is automatically the one used even on older releases
