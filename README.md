@@ -10,7 +10,7 @@ Add security and privacy with this extension.
 - E-Tag Track protection.
 
 ## Installation
-<a href="https://microsoftedge.microsoft.com/addons/detail/aelisya/ackodolhpbogckmcjkfdcgifhigeghkg"><img src="https://raw.githubusercontent.com/Aelisya/Aelisya-Tweaker/master/icons/EdgeStore.webp"></img></a>
+<a href="https://microsoftedge.microsoft.com/addons/detail/aelisya/ackodolhpbogckmcjkfdcgifhigeghkg"><img src="https://raw.githubusercontent.com/Aelisya/Aelisya-Tweaker/bd4575c1165645c7216b49e22a0b470c38efebfc/icons/EdgeStore.webp"></img></a>
 
 ## Report a bug or asking for a feature ?
 Follow the template or the issue will be closed immediately without reading !
