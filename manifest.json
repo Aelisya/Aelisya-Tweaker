@@ -30,7 +30,7 @@
         "default_popup": "pages/popup.html"
     },
     "content_scripts": [{
-            "css": ["css/css.css"],
+            "js": ["js/css.js"],
             "matches": ["https://*/*","http://*/*"],
             "all_frame": true,
             "run_at": "document_idle"
