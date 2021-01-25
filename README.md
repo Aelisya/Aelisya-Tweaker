@@ -31,6 +31,11 @@ The code for supporting manifest V3 is done and work very smoothly edge 88 suppo
 <li>Removing block of flash objet since flash insn't present anymore on W10 and edge</li>
 </ul>
 
+### V 6.1
+<ul>
+<li>Was a testing version who is now removed from the store</li>
+</ul>
+
 ### V 6.0
 <ul>
 <li>Some tweak and removing option</li>
