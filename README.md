@@ -1,5 +1,5 @@
 # Aelisya Tweaker
-![OSSAR](https://github.com/Macqael/Aelisya-Tweaker/workflows/OSSAR/badge.svg)![CodeQL](https://github.com/Macqael/Aelisya-Tweaker/workflows/CodeQL/badge.svg?branch=master)\
+![OSSAR](https://github.com/Aelisya/Aelisya-Tweaker/workflows/OSSAR/badge.svg)![CodeQL](https://github.com/Aelisya/Aelisya-Tweaker/workflows/CodeQL/badge.svg?branch=master)\
 Add security and privacy with this extension.
 
 - AMP redirection.
@@ -10,7 +10,7 @@ Add security and privacy with this extension.
 - E-Tag Track protection.
 
 ## Installation
-<a href="https://microsoftedge.microsoft.com/addons/detail/aelisya/ackodolhpbogckmcjkfdcgifhigeghkg"><img src="https://raw.githubusercontent.com/Macqael/Aelisya-Tweaker/master/icons/EdgeStore315.webp"></img></a>
+<a href="https://microsoftedge.microsoft.com/addons/detail/aelisya/ackodolhpbogckmcjkfdcgifhigeghkg"><img src="https://raw.githubusercontent.com/Aelisya/Aelisya-Tweaker/master/icons/EdgeStore.webp"></img></a>
 
 ## Report a bug or asking for a feature ?
 Follow the template or the issue will be closed immediately without reading !
