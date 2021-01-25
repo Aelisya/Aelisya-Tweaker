@@ -1,3 +1,10 @@
+function addStyle(styleString) {
+    const style = document.createElement('style');
+    style.textContent = styleString;
+    document.head.append(style);
+}
+
+addStyle(`
 ::-webkit-scrollbar{
     width:8px!important;
     height:8px!important
@@ -29,3 +36,4 @@
         background-color:#A7A7A7!important
     }
 }
+`);
