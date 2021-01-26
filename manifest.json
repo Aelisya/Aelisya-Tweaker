@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "__MSG_appName__",
-    "version": "6.2",
+    "version": "7.0",
     "description": "__MSG_appDesc__",
     "icons": {
         "48": "icons/icon48.png",
@@ -30,7 +30,8 @@
         "default_popup": "pages/popup.html"
     },
     "content_scripts": [{
-            "js": ["js/css.js"],
+            "css": ["css/scrollbar.css"],
+            "js": ["js/scrollbar.js"],
             "matches": ["https://*/*","http://*/*"],
             "all_frame": true,
             "run_at": "document_idle"

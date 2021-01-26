@@ -24,6 +24,11 @@ The code for supporting manifest V3 is done and work very smoothly edge 88 suppo
 
 ## Release Notes
 
+### V 7.0
+<ul>
+<li>Add css theme injection by js at the end of the load to override enventual override of the scrollbar</li>
+</ul>
+
 ### V 6.2
 <ul>
 <li>Removing noopener since edge do it automatically</li>
