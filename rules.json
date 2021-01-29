@@ -7,7 +7,7 @@
         },
         "condition": {
             "regexFilter": "^(?:https|http):\/\/www.(?:bing|google).*\/amp\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))",
-            "resourceTypes": ["main_frame"]
+            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
         }
     },
     {
@@ -21,7 +21,7 @@
         },
         "condition": {
             "regexFilter": "^(?:https|http):\/\/www.(?:bing|google).*\/amp\/s\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))",
-            "resourceTypes": ["main_frame"]
+            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
         }
     },
     {
@@ -32,7 +32,7 @@
         },
         "condition": {
             "regexFilter": "^(?:https|http):\/\/(?:.*cdn.ampproject.org|.*bing-amp.com)\/c\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))", 
-            "resourceTypes": ["main_frame"]
+            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
         }
     },
     {
@@ -46,7 +46,7 @@
         },
         "condition": {
             "regexFilter": "^(?:https|http):\/\/(?:.*cdn.ampproject.org|.*bing-amp.com)\/c\/s\/((?:[a-zA-Z0-9.])+(?:[a-zA-Z0-9])+(?:[a-zA-Z0-9\/]*))",
-            "resourceTypes": ["main_frame"]
+            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
         }
     },
     {
@@ -60,7 +60,7 @@
         },
         "condition": {
             "regexFilter": "^(?:https|http):\/\/t.co\/(.*).+amp=1",
-            "resourceTypes": ["main_frame"]
+            "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
         }
     },
     {
