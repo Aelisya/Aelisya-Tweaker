@@ -3,7 +3,7 @@
 Add security and privacy with this extension.
 
 - AMP redirection.
-- Add modern Scrollbar to the browser (follow system color).
+- Add modern Scrollbar to the browser (follow system color) injected with JS.
 - Blocking ping requests.
 - Block CSP_REPORT.
 - Block Sentry and Bugsnag.
