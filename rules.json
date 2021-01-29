@@ -99,16 +99,5 @@
             "regexFilter": "^(?:https|http):\/\/.*(?:sentry|bugsnag).*js",
             "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "media", "websocket", "other"]
         }
-    },
-    {
-        "id": 9,
-        "priority": 1,
-        "action": {
-            "type": "block"
-        },
-        "condition": {
-            "regexFilter": "^(?:https|http):\/\/.*(?:google.com|gstatic.com|googlecode.com|googlesyndication.com|google-analytics.com|googleadservices.com|googleapis.com)",
-            "resourceTypes": ["stylesheet", "script", "xmlhttprequest", "other"]
-        }
     }
 ]
