@@ -30,6 +30,7 @@
         "default_popup": "pages/popup.html"
     },
     "content_scripts": [{
+            "css": ["css/scrollbar.css"],
             "js": ["js/scrollbar.js"],
             "matches": ["https://*/*","http://*/*"],
             "all_frame": true,
