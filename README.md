@@ -24,6 +24,11 @@ The code for supporting manifest V3 is done and work very smoothly edge 88 suppo
 
 ## Release Notes
 
+### V 6.4
+<ul>
+<li>Add css theme by css injection to remove blink on the scrollbar on slower computer</li>
+</ul>
+
 ### V 6.3
 <ul>
 <li>Replace css theme injection by js injection at the end of the load to override enventual override of the scrollbar</li>
