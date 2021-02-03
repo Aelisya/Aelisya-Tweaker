@@ -24,6 +24,12 @@ The code for supporting manifest V3 is done and work very smoothly edge 88 suppo
 
 ## Release Notes
 
+### V 7.0-DEV
+<ul>
+<li>Block Google Fonts</li>
+<li>Add redirection from Google CDN to another CDN (not actually decided whitch one will be used)</li>
+</ul>
+
 ### V 6.4
 <ul>
 <li>Add css theme by css injection to remove blink on the scrollbar on slower computer</li>
