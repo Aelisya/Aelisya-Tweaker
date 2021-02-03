@@ -7,7 +7,9 @@ Add security and privacy with this extension.
 - Blocking ping requests.
 - Block CSP_REPORT.
 - Block Sentry and Bugsnag.
+- Block Google fonts (dev)
 - E-Tag Track protection.
+- Redirect Google CDN on another CDN (dev)
 
 ## Installation
 <a href="https://microsoftedge.microsoft.com/addons/detail/aelisya/ackodolhpbogckmcjkfdcgifhigeghkg"><img src="https://raw.githubusercontent.com/macqael/Aelisya-Tweaker/bd4575c1165645c7216b49e22a0b470c38efebfc/icons/EdgeStore.webp"></img></a>
