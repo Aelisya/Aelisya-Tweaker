@@ -42,4 +42,4 @@
 
 ## Microsoft Store
 * I autorize Microsoft to compile/modify/add file to these file Only for the purpose of publishing this application/extension to their store on the country i have selected on their platform.
-* Other person/entreprise/country are forbidden to publish it without my clear and explicit authorisation
+* Other person/entreprise/country are forbidden to publish it without my clear and explicit authorisation.
