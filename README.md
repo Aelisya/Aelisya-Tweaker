@@ -7,7 +7,7 @@ Add security and privacy with this extension.
 - Blocking ping requests.
 - Block CSP_REPORT.
 - Block Sentry and Bugsnag.
-- Block Google fonts (dev)
+- Block Google fonts.
 - E-Tag Track protection.
 - Redirect Google CDN on another CDN (dev)
 
@@ -26,7 +26,7 @@ The code for supporting manifest V3 is done and work very smoothly edge 88 suppo
 
 ## Release Notes
 
-### V 7.0-DEV
+### V X.0-DEV
 <ul>
 <li>Block Google Fonts</li>
 <li>Add redirection from Google CDN to another CDN (not actually decided whitch one will be used)</li>
