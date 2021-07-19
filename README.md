@@ -7,9 +7,7 @@ Add security and privacy with this extension.
 - Blocking ping requests.
 - Block CSP_REPORT.
 - Block Sentry and Bugsnag.
-- Block Google fonts.
 - E-Tag Track protection.
-- Redirect Google CDN on another CDN (dev)
 
 ## Installation
 <a href="https://microsoftedge.microsoft.com/addons/detail/aelisya/ackodolhpbogckmcjkfdcgifhigeghkg"><img src="https://raw.githubusercontent.com/macqael/Aelisya-Tweaker/bd4575c1165645c7216b49e22a0b470c38efebfc/icons/EdgeStore.webp"></img></a>
@@ -25,12 +23,6 @@ Why 13/11 because it's the date when i have applied this rules.
 The code for supporting manifest V3 is done and work very smoothly edge 88 support majority of it's code, normally i will publish it with 89 if they integrate it (manifest v3), the package is already uploaded waiting for publication.
 
 ## Release Notes
-
-### V X.0-DEV
-<ul>
-<li>Block Google Fonts</li>
-<li>Add redirection from Google CDN to another CDN (not actually decided whitch one will be used)</li>
-</ul>
 
 ### V 6.4
 <ul>
